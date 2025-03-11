@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+		<path>./Alex.Kidd.in.the.Enchanted.Castle.Kor.smd</path>
+		<name>알렉스 키드:천공마성</name>
+		<genre>Action</genre>
+		<md5>1786d2b7939adc6f941617104ef868ad</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Alisia.Dragoon.Kor.gen</path>
+		<name>알리시아 드래곤</name>
+		<genre>Shooting</genre>
+		<md5>c725aed638f295430114981ba7279491</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Contra-The.Hard.Corps.Kor.gen</path>
+		<name>혼두라:하드코어</name>
+		<genre>Action</genre>
+		<md5>3d557a83e44dfe6456cf69d84c818b56</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Crusader.of.Centy.Kor.md</path>
+		<name>신창세기 라그나센티</name>
+		<desc>Before the time of plants and animals, the earth was completely dark, and inhabited by things we now call 'monsters'. When some voice said 'Let There Be Light' , many monsters died because they could not live in this new light world. Not all died however; some of them hid in caves, and grew stronger. Now, they want to return to the world, and in these days you live your life.
+
+On your fourteenth birthday you are given your deceased father's sword and shield. Now you are considered ready for the trials and maybe, just maybe, you can become a hero yourself.</desc>
+		<image>./images/Crusader.of.Centy.Kor-image.png</image>
+		<video>./videos/Crusader.of.Centy.Kor-video.mp4</video>
+		<marquee>./images/Crusader.of.Centy.Kor-marquee.png</marquee>
+		<thumbnail>./images/Crusader.of.Centy.Kor-thumb.png</thumbnail>
+		<manual>./manuals/Crusader.of.Centy.Kor-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role Playing Game</genre>
+		<md5>3314e363260d38cb1e4303e0bea84aba</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Dahna.Kor.md</path>
+		<name>다나 여신탄생</name>
+		<desc>Dahna: Megami Tanjo (Dahna: Birth of a Goddess) is a beat'em up with some RPG elements. The player controls Dahna as she scrolls horizontally or vertically through the levels. Dahna fights her enemies using a sword, and she can jump in two heights, duck and crawl. Dahna has also a magic meter, which has several colored levels. Different levels of her magic will produce different magical effects (as in Golden Axe). Her magic can be replenished by gathering magical orbs, dropped by enemy mages when killed. They will also drop health orbs as well.
+
+She starts the game "riding" a giant, and in other portions of the game, she'll also ride other creatures, such as a horse and a griffin. When riding a creature, Dahna can't use her magic powers.
+
+As she kills enemies and gather orbs, Dahna gains experience points, which grant her level upgrades. Leveling up affects only her health, as she gains more health points.</desc>
+		<image>./images/Dahna.Kor-image.png</image>
+		<video>./videos/Dahna.Kor-video.mp4</video>
+		<marquee>./images/Dahna.Kor-marquee.png</marquee>
+		<thumbnail>./images/Dahna.Kor-thumb.png</thumbnail>
+		<manual>./manuals/Dahna.Kor-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Information Global Service</developer>
+		<publisher>Information Global Service</publisher>
+		<genre>Beat'em Up</genre>
+		<md5>d2c013ff76bf6672e54d0a726a82541e</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./El.Viento.Kor.gen</path>
+		<name>엘 비엔토</name>
+		<genre>Action</genre>
+		<md5>633c0e5310a999e44ea06a9e1537cfe7</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Elemental.Master.Kor.bin</path>
+		<name>엘레멘탈 마스터</name>
+		<genre>Shooting</genre>
+		<md5>d3a6a9e00990486781e49cc23ed54816</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Exile-Toki.no.Hazama.he.Jpn.md</path>
+		<name>エグザイル 時の狭間へ</name>
+		<desc>Exile concerns the desert adventures of Sadler, the great hero whose revolt years before led to the downfall of a powerful empire. Recently, however, peace was broken in Sadler's home country, as the rival Luciel empire has been launching attacks on the Village of Dunes.
+
+Exile is a hybrid action/role-playing game. Travel and exploration occurs in the traditional overhead view of RPGs, while the battles and dungeons are side-scrolling mazes, similar to Wanderers from Ys. Characters gain experience and levels, buy equipment, and use magic.</desc>
+		<image>./images/Exile-Toki.no.Hazama.he.Jpn-image.png</image>
+		<video>./videos/Exile-Toki.no.Hazama.he.Jpn-video.mp4</video>
+		<marquee>./images/Exile-Toki.no.Hazama.he.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Exile-Toki.no.Hazama.he.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Exile-Toki.no.Hazama.he.Jpn-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19911205T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Telenet</publisher>
+		<genre>Role Playing Game</genre>
+		<md5>2cda6d2f8dfe3caab1683dd7849b6ba3</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Exile-Toki.no.Hazama.he.Kor.md</path>
+		<name>엑자일</name>
+		<genre>Action-RPG</genre>
+		<md5>72ccde45461ef3cd1de9e99a1c4e0744</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Gley.Lancer.Kor.bin</path>
+		<name>그레이 랜서</name>
+		<genre>Shooting</genre>
+		<md5>440dfeee1009909f75167a9cc1d57f15</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Gunstar.Heroes.Kor.md</path>
+		<name>건스타 히어로즈</name>
+		<genre>Action</genre>
+		<md5>b8e4f426307c0a26c80e140da9ab164d</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Honoo.no.Toukyuuji.Dodge.Danpei.Jpn.md</path>
+		<name>炎の闘球児ドッジ弾平</name>
+		<desc>Danpei Ichigeki is a young boy who loves dodgeball. Danpei's father was a famous dodgeball player when he was still alive, and he joins the Dodgeball Club at his elementary school. However, these kids are very serious about their dodgeball, and the road ahead isn't going to be easy for Danpei.
+
+Dodge Danpei is a team dodgeball game, one of several based on the anime and manga created by Tetsuhiro Koshita, which plays strikingly similar to the well-known Super Dodge Ball. Each team has four main players and three support players, and attempts to knock out the opposing team's main members by throwing the ball at them in various ways. Apart from normal throws, the player can also pass to teammates, and execute special power throws which are harder to dodge or catch.
+
+The game includes several different game modes, including the main story mode which follows the story of the anime, as well as one- and two-player exhibition matches. There is also a "league" mode which allows for a tournament of up to six teams, as well as a training mode where the game teaches the basics of how to play the game.</desc>
+		<image>./images/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-image.png</image>
+		<video>./videos/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-video.mp4</video>
+		<marquee>./images/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-thumb.png</thumbnail>
+		<releasedate>19920710T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Dodgeball</genre>
+		<family>Dodge Danpei</family>
+		<md5>9b2d173d8f9f666886d62639ead35b4e</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Honoo.no.Toukyuuji.Dodge.Danpei.Kor.md</path>
+		<name>피구왕 통키</name>
+		<desc>Danpei Ichigeki is a young boy who loves dodgeball. Danpei's father was a famous dodgeball player when he was still alive, and he joins the Dodgeball Club at his elementary school. However, these kids are very serious about their dodgeball, and the road ahead isn't going to be easy for Danpei.
+
+Dodge Danpei is a team dodgeball game, one of several based on the anime and manga created by Tetsuhiro Koshita, which plays strikingly similar to the well-known Super Dodge Ball. Each team has four main players and three support players, and attempts to knock out the opposing team's main members by throwing the ball at them in various ways. Apart from normal throws, the player can also pass to teammates, and execute special power throws which are harder to dodge or catch.
+
+The game includes several different game modes, including the main story mode which follows the story of the anime, as well as one- and two-player exhibition matches. There is also a "league" mode which allows for a tournament of up to six teams, as well as a training mode where the game teaches the basics of how to play the game.</desc>
+		<image>./images/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-image.png</image>
+		<video>./videos/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-video.mp4</video>
+		<marquee>./images/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Honoo.no.Toukyuuji.Dodge.Danpei.Jpn-thumb.png</thumbnail>
+		<releasedate>19920710T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Dodgeball</genre>
+		<family>Dodge Danpei</family>
+		<md5>e8fecc8c4e7d151be2538c4702bff3ea</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Kujaku.Ou.2-Geneijou.Kor.md</path>
+		<name>공작왕.2</name>
+		<desc>Mystic Defender (based on the Japanese title Kujakuo 2: Geneijo) is a side-scrolling platform game. It is the sequel to SpellCaster for the Sega Master System. However, in this sequel the RPG elements have been omitted in favour of side-scrolling platform gameplay.
+
+In this game you play Joe Yamata (Kujaku) on a quest to rescue Alexandra from the villainous Zao, who is using her soul to resurrect his master Zareth in Azuchi castle. You have four types of magic to attack with and you can charge your blasts as well as change the magic type mid-game.</desc>
+		<image>./images/Kujaku.Ou.2-Geneijou.Kor-image.png</image>
+		<video>./videos/Kujaku.Ou.2-Geneijou.Kor-video.mp4</video>
+		<marquee>./images/Kujaku.Ou.2-Geneijou.Kor-marquee.png</marquee>
+		<thumbnail>./images/Kujaku.Ou.2-Geneijou.Kor-thumb.png</thumbnail>
+		<manual>./manuals/Kujaku.Ou.2-Geneijou.Kor-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<md5>c64b982b20075dce0bf6c804dffe983d</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Landstalker.Kor.bin</path>
+		<name>랜드스토커</name>
+		<genre>Action-RPG</genre>
+		<md5>3b8d4629fcdd9c476fd41fb8ce8d1f3e</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Langrisser.Jpn.md</path>
+		<name>ラングリッサー</name>
+		<desc>Warsong is the only title of a series of famous strategy games, known as Langrisser in Japan, to ever see an official release outside of Japan. It is set in a typical medieval fantasy setting and features traditional turn-based combat. The player controls several generals who can command up to eight different units ranging from ordinary soldiers and archers to more exotic creatures like mermen or lizards.The generals fight alongside their units, however they are much more powerful and are able to use more diverse commands than just moving and attacking, like recovering a small amount of HP or casting spells. Each unit has certain strengths and weaknesses; for example soldiers are good against archers but weak against cavalry etc. Combat is also influenced heavily by terrain types. When two units engage in combat a small animation, similar to those seen in Advance Wars or Fire Emblem, is shown.</desc>
+		<image>./images/Langrisser.Jpn-image.png</image>
+		<video>./videos/Langrisser.Jpn-video.mp4</video>
+		<marquee>./images/Langrisser.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Langrisser.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Langrisser.Jpn-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Treco</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Langrisser</family>
+		<md5>4759f8db3ee29d85f7087886d813c04b</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Light.Crusader.Kor.md</path>
+		<name>라이트 크루세이더</name>
+		<desc>In Light Crusader, you play the role of Sir David, a knight in the service of King Frederick. You are sent to the town Green Row to help your king's brother, King Weeden, to discover what has caused the mysterious disappearance of his town people. You must enter and explore huge dungeons in order to find out about an ancient story that has happened many years ago, and to face evil forces who threaten the land.
+
+Light Crusader is an isometric action/puzzle adventure with RPG elements, along the lines of Landstalker. You can talk to townspeople, buy weapons and items, etc. You spend most of the game in dungeons, which are populated by enemies (whom you fight in real-time combat), and which are full of various types of traps and puzzles. You'll often have to jump to access higher levels or platforms, push switches and other objects to help you advance, and solve various physical puzzles.</desc>
+		<image>./images/Light.Crusader.Kor-image.png</image>
+		<video>./videos/Light.Crusader.Kor-video.mp4</video>
+		<marquee>./images/Light.Crusader.Kor-marquee.png</marquee>
+		<thumbnail>./images/Light.Crusader.Kor-thumb.png</thumbnail>
+		<manual>./manuals/Light.Crusader.Kor-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19950525T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game</genre>
+		<md5>8d4fa22fdf9ad5515e37f690c8490152</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn.gen</path>
+		<name>まじかるハットのぶっとびターボ！大冒険</name>
+		<desc>An ancient evil has resurfaced after being sealed underground for thousands of years. The peaceful island, Usonto, has been split into seven pieces, and it's up to our hero, Hat, and his friends to restore the island and defeat the evil king!
+
+Based on the 1989 TV anime Magical Hat, produced by Studio Pierrot and based on the original manga by Yoji Katakura, Magical Hat no Buttobi Turbo! Daiboken (Magical Hat's Flying Turbo! Adventure) is an action platform game not unlike the Master System classic Psycho Fox. You play as the titular Hat, jumping on and punching enemies, grabbing items from statues, and fighting a boss at the end of each world. In each stage, you can find your robot-egg friend Robegg hidden somewhere, who will help you out by acting as a projectile and a shield.
+
+There are a wide range of different power-up items that can be obtained in the game, which will do things like give you temporary invincibility, freeze all the enemies for a short time, give you an extra-high jump, or even call in air support from a helicopter. At the end of each stage, you can play a game of chance to win extra items and lives.
+
+A heavily modified version of the game was released outside of Japan as DEcapAttack. The graphics, sound, story, and many of the stages were changed.</desc>
+		<image>./images/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-image.png</image>
+		<video>./videos/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-video.mp4</video>
+		<marquee>./images/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19901215T000000</releasedate>
+		<developer>Tokai Engineering</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<md5>d3bfc88e31c01a89b1660c514baab7f2</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Magical.Hat.no.Buttobi.Turbo!.Daibouken.Kor.gen</path>
+		<name>용의 아들의 날아라 터보! 대모험</name>
+		<desc>An ancient evil has resurfaced after being sealed underground for thousands of years. The peaceful island, Usonto, has been split into seven pieces, and it's up to our hero, Hat, and his friends to restore the island and defeat the evil king!
+
+Based on the 1989 TV anime Magical Hat, produced by Studio Pierrot and based on the original manga by Yoji Katakura, Magical Hat no Buttobi Turbo! Daiboken (Magical Hat's Flying Turbo! Adventure) is an action platform game not unlike the Master System classic Psycho Fox. You play as the titular Hat, jumping on and punching enemies, grabbing items from statues, and fighting a boss at the end of each world. In each stage, you can find your robot-egg friend Robegg hidden somewhere, who will help you out by acting as a projectile and a shield.
+
+There are a wide range of different power-up items that can be obtained in the game, which will do things like give you temporary invincibility, freeze all the enemies for a short time, give you an extra-high jump, or even call in air support from a helicopter. At the end of each stage, you can play a game of chance to win extra items and lives.
+
+A heavily modified version of the game was released outside of Japan as DEcapAttack. The graphics, sound, story, and many of the stages were changed.</desc>
+		<image>./images/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-image.png</image>
+		<video>./videos/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-video.mp4</video>
+		<marquee>./images/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Magical.Hat.no.Buttobi.Turbo!.Daibouken.Jpn-thumb.png</thumbnail>
+		<releasedate>19901215T000000</releasedate>
+		<developer>Tokai Engineering</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<md5>59e3692a6a61bada5640d0120e13f78e</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Magical.Taruruuto-kun.Jpn.md</path>
+		<name>まじかる☆タルるートくん</name>
+		<desc>Based on a popular manga comedy published in Shonen Jump, Magical Taruruuto-kun is about a boy named Edojou Honmaru who is constantly being bullied at school until he calls the titular hero Taruruuto from another world to help him. It is a cutesy platform game that plays similarly to most other games of its genre. There are many hazards to jump over and end of level boss fights, Taruruuto can hit enemies with his wand or pick up items and throw them.</desc>
+		<image>./images/Magical.Taruruuto-kun.Jpn-image.png</image>
+		<video>./videos/Magical.Taruruuto-kun.Jpn-video.mp4</video>
+		<marquee>./images/Magical.Taruruuto-kun.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Magical.Taruruuto-kun.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Magical.Taruruuto-kun.Jpn-manual.pdf</manual>
+		<rating>0.55</rating>
+		<releasedate>19920424T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<md5>f676dfdd836199352f105465905c25de</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Magical.Taruruuto-kun.Kor.md</path>
+		<name>매지컬 타루루토군</name>
+		<desc>Based on a popular manga comedy published in Shonen Jump, Magical Taruruuto-kun is about a boy named Edojou Honmaru who is constantly being bullied at school until he calls the titular hero Taruruuto from another world to help him. It is a cutesy platform game that plays similarly to most other games of its genre. There are many hazards to jump over and end of level boss fights, Taruruuto can hit enemies with his wand or pick up items and throw them.</desc>
+		<image>./images/Magical.Taruruuto-kun.Jpn-image.png</image>
+		<video>./videos/Magical.Taruruuto-kun.Jpn-video.mp4</video>
+		<marquee>./images/Magical.Taruruuto-kun.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Magical.Taruruuto-kun.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Magical.Taruruuto-kun.Jpn-manual.pdf</manual>
+		<releasedate>19920424T000000</releasedate>
+		<genre>Platform</genre>
+		<md5>b61724efd514a14683c82e500a1657e6</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Musha.Aleste-Full.Metal.Fighter.Ellinor.Kor.gen</path>
+		<name>무사 알레스터</name>
+		<genre>Shooting</genre>
+		<md5>bcfdad0c47649466dfb3002dbc568783</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Phantasy.Star.II.Kor.bin</path>
+		<name>판타지 스타 2</name>
+		<genre>RPG</genre>
+		<md5>2892ad354cede7d460134b542e8b192a</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Phantasy.Star.IV-The.End.of.the.Millenium.Kor.gen</path>
+		<name>판타지 스타 4</name>
+		<genre>RPG</genre>
+		<md5>a3ae50ae45148c282371aed72d2f65af</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Shining.Force.II.Kor.bin</path>
+		<name>샤이닝 포스 2</name>
+		<genre>Simulation-RPG</genre>
+		<md5>12abb234ff37d30c857feebcdcd0cb25</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Shining.Force.Kor.bin</path>
+		<name>샤이닝 포스 1</name>
+		<genre>Simulation-RPG</genre>
+		<md5>d40e7455e1c0d43d87ddd8f811aec693</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Shining.in.the.Darkness.Kor.bin</path>
+		<name>샤이닝 인 더 다크니스</name>
+		<genre>RPG</genre>
+		<md5>0a2d3fa6081e98b9568496b02fdf7e51</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Shura.no.Mon.Jpn.md</path>
+		<name>修羅の門</name>
+		<desc>Tsukumo Mutsu, a young student of Karate, has come to the city seeking the Jinmukan dojo, looking for a challenge to prove himself. He's gotten lost, but a young girl helps him out. She happens to be the granddaughter of the head of the dojo, and doesn't want him to get involved with the place, but Tsukumo insists on continuing regardless. He walks right in, and takes on the first guy in a karate gi he comes across...
+
+Shura no Mon is a so-called "command action" game based on the manga by Masatoshi Kawahara. The player controls Tsukumo by selecting commands from a list, using different attacks and defensive maneuvers at the appropriate time, with the results shown via brief animated sequences. Between bouts, lightly-animated visual scenes progress the story. The plot closely follows the first arc from the manga, starting with Tsukumo's arrival at the legendary Jinmukan dojo.</desc>
+		<image>./images/Shura.no.Mon.Jpn-image.png</image>
+		<video>./videos/Shura.no.Mon.Jpn-video.mp4</video>
+		<marquee>./images/Shura.no.Mon.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Shura.no.Mon.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Shura.no.Mon.Jpn-manual.pdf</manual>
+		<releasedate>19920807T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<md5>1290928fba665ced3ac5653b0f16eac7</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Shura.no.Mon.Kor.md</path>
+		<name>수라의 문</name>
+		<desc>Tsukumo Mutsu, a young student of Karate, has come to the city seeking the Jinmukan dojo, looking for a challenge to prove himself. He's gotten lost, but a young girl helps him out. She happens to be the granddaughter of the head of the dojo, and doesn't want him to get involved with the place, but Tsukumo insists on continuing regardless. He walks right in, and takes on the first guy in a karate gi he comes across...
+
+Shura no Mon is a so-called "command action" game based on the manga by Masatoshi Kawahara. The player controls Tsukumo by selecting commands from a list, using different attacks and defensive maneuvers at the appropriate time, with the results shown via brief animated sequences. Between bouts, lightly-animated visual scenes progress the story. The plot closely follows the first arc from the manga, starting with Tsukumo's arrival at the legendary Jinmukan dojo.</desc>
+		<image>./images/Shura.no.Mon.Jpn-image.png</image>
+		<video>./videos/Shura.no.Mon.Jpn-video.mp4</video>
+		<marquee>./images/Shura.no.Mon.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Shura.no.Mon.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Shura.no.Mon.Jpn-manual.pdf</manual>
+		<releasedate>19920807T000000</releasedate>
+		<genre>Adventure</genre>
+		<md5>449883533ffdb6c967b0b504bbb51de0</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Story.of.Thor.Kor.md</path>
+		<name>스토리 오브 도어</name>
+		<desc>In 'Beyond Oasis' a character by the name of Prince Ali is your protagonist, who wields a golden armlet with the power of fire, water, plant and shadow. You must travel your lands in search of the holder of the silver armlet, which had been hidden for generations. Recently unearthed it holds the power of chaos and destruction. You must stop them before it's too late.</desc>
+		<image>./images/Story.of.Thor.Kor-image.png</image>
+		<video>./videos/Story.of.Thor.Kor-video.mp4</video>
+		<marquee>./images/Story.of.Thor.Kor-marquee.png</marquee>
+		<thumbnail>./images/Story.of.Thor.Kor-thumb.png</thumbnail>
+		<manual>./manuals/Story.of.Thor.Kor-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19950315T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game / Action RPG</genre>
+		<md5>492833310cf6106bc3db3a0167cce79a</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Super.Fantasy.Zone.Kor.gen</path>
+		<name>수퍼 판타지 존</name>
+		<genre>Shooting</genre>
+		<md5>16e64231e9cbbbc600b5db02ae0f216a</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Super.Shinobi.II.Kor.gen</path>
+		<name>수퍼 시노비 2</name>
+		<genre>Action</genre>
+		<md5>3c1ebb105dfc9e9d5527392e2b4ff6c3</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Twinkle.Tale.Kor.bin</path>
+		<name>트윙클 테일</name>
+		<genre>Shooting</genre>
+		<md5>36c68c392f6916dae6c52ba27e0f5283</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Uzu.Keobukseon.Kor.smd</path>
+		<name>우주 거북선</name>
+		<genre>Shooting</genre>
+		<md5>3cf9e91686b6064d64edd81a6201e5fa</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Valis.III.Kor.gen</path>
+		<name>바리스 3</name>
+		<genre>Action</genre>
+		<md5>9b28f85012a932367f9b2365796ffc8a</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Valis.Kor.gen</path>
+		<name>바리스 1</name>
+		<genre>Action</genre>
+		<md5>2111c954e58b494674b9818f79c0cf62</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Valis.SD.Kor.gen</path>
+		<name>바리스 SD</name>
+		<genre>Action</genre>
+		<md5>e39490790ddb49c4dd829571deacd097</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Vampire.Killer.Jpn.gen</path>
+		<name>バンパイアキラー</name>
+		<desc>In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.
+
+The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...</desc>
+		<image>./images/Vampire.Killer.Jpn-image.png</image>
+		<video>./videos/Vampire.Killer.Jpn-video.mp4</video>
+		<marquee>./images/Vampire.Killer.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Vampire.Killer.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Vampire.Killer.Jpn-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19940317T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Castlevania</family>
+		<md5>3453bcc79345872034845cc5a7a1b15f</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Vampire.Killer.Kor.gen</path>
+		<name>뱀파이어 킬러</name>
+		<desc>In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.
+
+The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...</desc>
+		<image>./images/Vampire.Killer.Jpn-image.png</image>
+		<video>./videos/Vampire.Killer.Jpn-video.mp4</video>
+		<marquee>./images/Vampire.Killer.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Vampire.Killer.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Vampire.Killer.Jpn-manual.pdf</manual>
+		<releasedate>19940317T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<family>Castlevania</family>
+		<md5>39abc7994a00918d77fd80806c9c5e57</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Wizard.of.the.Immortal.Kor.md</path>
+		<name>임모탈</name>
+		<genre>Advanture</genre>
+		<md5>8d8ddc03824086d9da0d2d854f8360e9</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Ys.III-Wanderers.from.Ys.Jpn.gen</path>
+		<name>イース3:ワンダラーズ フロム イース</name>
+		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
+
+Ys III breaks away from the "bumping into enemies" battle system of the first two games and allows Adol to control his sword in a variety of directions.  As well as changing the battle system, the game is now side scrolling instead of the previous games top-down view. Adol also now has the ability to jump.  Not new to the series is the use of magical rings which give Adol different powering up abilities such as healing and shielding.  The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
+		<image>./images/Ys.III-Wanderers.from.Ys.Jpn-image.png</image>
+		<video>./videos/Ys.III-Wanderers.from.Ys.Jpn-video.mp4</video>
+		<marquee>./images/Ys.III-Wanderers.from.Ys.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Ys.III-Wanderers.from.Ys.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Ys.III-Wanderers.from.Ys.Jpn-manual.pdf</manual>
+		<rating>0.95</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Game / Action RPG</genre>
+		<family>Ys</family>
+		<md5>bb632143831215d57f45765b5dccea58</md5>
+		<lang>jp</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+	<game>
+		<path>./Ys.III-Wanderers.from.Ys.Kor.gen</path>
+		<name>이스 3</name>
+		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
+
+Ys III breaks away from the "bumping into enemies" battle system of the first two games and allows Adol to control his sword in a variety of directions.  As well as changing the battle system, the game is now side scrolling instead of the previous games top-down view. Adol also now has the ability to jump.  Not new to the series is the use of magical rings which give Adol different powering up abilities such as healing and shielding.  The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
+		<image>./images/Ys.III-Wanderers.from.Ys.Jpn-image.png</image>
+		<video>./videos/Ys.III-Wanderers.from.Ys.Jpn-video.mp4</video>
+		<marquee>./images/Ys.III-Wanderers.from.Ys.Jpn-marquee.png</marquee>
+		<thumbnail>./images/Ys.III-Wanderers.from.Ys.Jpn-thumb.png</thumbnail>
+		<manual>./manuals/Ys.III-Wanderers.from.Ys.Jpn-manual.pdf</manual>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Role Playing Game / Action RPG</genre>
+		<family>Ys</family>
+		<md5>3feca9b0026ffa1fcaa0908e768f649f</md5>
+		<lang>kr</lang>
+	</game>
+	<scrap name="ScreenScraper" date="300001011T000000" />
+</gameList>
