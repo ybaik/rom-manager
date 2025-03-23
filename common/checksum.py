@@ -1,6 +1,7 @@
 import os
 import zlib
 import hashlib
+import zipfile
 
 
 def calculate_crc32(file_path):
@@ -35,7 +36,7 @@ def calculate_crc32(file_path):
     return None
 
 
-def calculate_checksums(file_path):
+def calculate_checksums(zip_file_path, target_file_name=None):
     """
     Calculates the MD5 and SHA-256 checksums of a file.
 
@@ -44,24 +45,34 @@ def calculate_checksums(file_path):
     """
     try:
         # Ensure the file exists
-        if not os.path.isfile(file_path):
-            raise FileNotFoundError(f"The file {file_path} does not exist.")
+        if not os.path.isfile(zip_file_path):
+            raise FileNotFoundError(f"The file {zip_file_path} does not exist.")
 
-        # Initialize hash objects
-        md5_hash = hashlib.md5()
-        sha256_hash = hashlib.sha256()
+        if zip_file_path.endswith(".zip"):
+            if target_file_name is None:
+                return dict()
+            with zipfile.ZipFile(zip_file_path, "r") as zip_file:
+                with zip_file.open(target_file_name, "r") as target_file:
+                    file_data = target_file.read()
+                    md5_checksum = hashlib.md5(file_data).hexdigest()
+                    sha256_checksum = hashlib.sha256(file_data).hexdigest()
+                    return {"md5": md5_checksum, "sha256": sha256_checksum}
+        else:
+            # Initialize hash objects
+            md5_hash = hashlib.md5()
+            sha256_hash = hashlib.sha256()
 
-        # Open the file in binary mode and read it in chunks
-        with open(file_path, "rb") as file:
-            for chunk in iter(lambda: file.read(65536), b""):
-                md5_hash.update(chunk)
-                sha256_hash.update(chunk)
+            # Open the file in binary mode and read it in chunks
+            with open(zip_file_path, "rb") as file:
+                for chunk in iter(lambda: file.read(65536), b""):
+                    md5_hash.update(chunk)
+                    sha256_hash.update(chunk)
 
-        # Get the hexadecimal digest of the checksums
-        md5_checksum = md5_hash.hexdigest()
-        sha256_checksum = sha256_hash.hexdigest()
+            # Get the hexadecimal digest of the checksums
+            md5_checksum = md5_hash.hexdigest()
+            sha256_checksum = sha256_hash.hexdigest()
 
-        return {"md5": md5_checksum, "sha256": sha256_checksum}
+            return {"md5": md5_checksum, "sha256": sha256_checksum}
 
     except FileNotFoundError as fnf_error:
         print(f"FileNotFoundError: {fnf_error}")

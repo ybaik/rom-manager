@@ -4,26 +4,7 @@ import xml.etree.ElementTree as ET
 
 from typing import Dict
 from pathlib import Path
-
-
-XML_TAGS = [
-    "path",
-    "name",
-    "desc",
-    "image",
-    "video",
-    "marquee",
-    "thumbnail",
-    "manual",
-    "rating",
-    "releasedate",
-    "developer",
-    "publisher",
-    "genre",
-    "family",
-    "md5",
-    "lang",
-]
+from common.tags import XML_TAGS
 
 
 def read_xml(path: Path) -> Dict:
@@ -90,7 +71,7 @@ def save_xml(data: Dict, path: Path) -> None:
             if tag in info:
                 sub_element = ET.SubElement(element, tag)
                 sub_element.text = str(info[tag])  # Ensure the text is a string
-        ET.SubElement(root, "scrap", name="ScreenScraper", date="300001011T000000")
+        ET.SubElement(element, "scrap", name="ScreenScraper", date="300001011T000000")
 
     indent(root)
     tree = ET.ElementTree(root)

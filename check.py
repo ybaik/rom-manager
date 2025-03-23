@@ -1,48 +1,30 @@
-import json
 from pathlib import Path
-from common.fileio import XML_TAGS, read_xml, save_xml
+from common.checksum import calculate_crc32, calculate_checksums
 
-JSON_TAG = [
-    "path",
-    "name",
-    "desc",
-    "image",
-    "video",
-    "marquee",
-    "thumbnail",
-    "manual",
-    "rating",
-    "releasedate",
-    "release_year",
-    "developer",
-    "publisher",
-    "genre",
-    "family",
-    "crc32",
-    "md5",
-    "sha256",
-    "lang",
-    "copyright",
-    "serial",
-    "localization",
-    "loc_release_date",
-    "loc_url",
-]
+
+def print_info(rom_path, checksums):
+    rom_name = rom_path.name
+    md5 = checksums["md5"]
+    print(f"ROM mdf / name: {md5} / {rom_name}")
 
 
 def main():
-    console_model = "megadrive"
 
-    # json loading
-    json_path = Path("roms") / console_model / "gamelist_backup.json"
-    json_data = json.load(open(json_path, encoding="utf-8"))
+    src_rom_path = Path("c:/emul/roms/megadrive/Gley.Lancer.Kor.bin")
+    dst_rom_path = Path(
+        "c:/emul/roms/megadrive_test/Advanced Busterhawk Gley Lancer (Japan).md"
+    )
 
-    save_xml(json_data, "gamelist.xml")
+    # Check md5 and sha256
+    src_checksums = calculate_checksums(str(src_rom_path))
+    dst_checksums = calculate_checksums(str(dst_rom_path))
 
-    # Sort and write
-    # json_path = "gamelist.json"
-    # with open(json_path, "w", encoding="utf-8") as f:
-    #     json.dump(dict(sorted(json_new.items())), f, ensure_ascii=False, indent=4)
+    if src_checksums["md5"] != dst_checksums["md5"]:
+        print("md5 mismatch")
+        print_info(src_rom_path, src_checksums)
+        print_info(dst_rom_path, dst_checksums)
+    else:
+        print("md5 match")
 
 
 if __name__ == "__main__":
