@@ -15,31 +15,28 @@ def check_key_name(data, base_dir):
             continue
 
         filename = v["filename"]
-        # if not file_name.endswith(".zip"):
-        #     v["filename"] = file_name
 
-        # if not file_name.endswith(".zip"):
-        #     if v["lang"] == "jp":
-        #         print(file_name)
+        if not (base_dir / path).exists():
+            print(f"{k}: {filename} is not found")
 
         # md5 check
-        # checksum = calculate_checksums(str(base_dir / path), filename)
-        # if checksum["md5"] != v["md5"]:
-        #     print(checksum["md5"])
-        #     print(f"{k}: md5 is not match")
+        checksum = calculate_checksums(str(base_dir / path), filename)
+        if checksum["md5"] != v["md5"]:
+            print(checksum["md5"])
+            print(f"{k}: md5 is not match")
 
         if "releaseyear" in v and "releasedate" in v:
             print(f"Release year and release date are both found: {k}")
 
         # file check
-        # for tag in ["image", "video", "marquee", "thumbnail", "manual"]:
-        #     if tag not in v:
-        #         continue
-        #     path = base_dir / v[tag]
-        #     if not path.exists():
-        #         print(f"{k}: {tag} file is not found")
-        #         v.pop(tag)
-        #         continue
+        for tag in ["image", "video", "marquee", "thumbnail", "manual"]:
+            if tag not in v:
+                continue
+            path = base_dir / v[tag]
+            if not path.exists():
+                print(f"{k}: {tag} file is not found")
+                # v.pop(tag)
+                continue
 
 
 def main():
@@ -77,7 +74,7 @@ def main():
 
     # with open(json_path, "w", encoding="utf-8") as f:
     #     json.dump(dict(sorted(new_json_data.items())), f, ensure_ascii=False, indent=4)
-    return
+    # return
 
     # Compare the number of key items
     if len(xml_data.keys()) > len(json_data.keys()):

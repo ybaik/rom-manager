@@ -1,33 +1,140 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<game>
-		<path>./Advanced Busterhawk Gley Lancer (Japan) transformed (KR).zip</path>
+		<path>./Advanced Busterhawk Gley Lancer (Japan).zip</path>
+		<name>Advanced Busterhawk Gleylancer</name>
+		<desc>A side-scrolling sci-fi shooter, Gleylancer casts you as Lucia, a young pilot in the Space Fleet of starfighters that hijacks the experimental Gleylancer fighter to go explore the outer borders of known space in search of her missing father. Along the way Lucia will have to shoot down dozens of enemies in standard shooter fashion, while avoiding destruction and collecting power-ups that extend her ship's energy, upgrade weapons and gather screen-clearing bombs.
+
+The Gleylancer comes equipped with two hovering satellites that can receive weapon upgrades of their own, and can lock their positions at specific angles to increase your firepower and protect the player from enemy attacks. Features only a single-player campaign with two different endings depending on how the final stages are completed (e.g. if Lucia's father is rescued or not).</desc>
+		<image>./images/Advanced Busterhawk Gley Lancer (Japan)-image.png</image>
+		<video>./videos/Advanced Busterhawk Gley Lancer (Japan)-video.mp4</video>
+		<marquee>./images/Advanced Busterhawk Gley Lancer (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Advanced Busterhawk Gley Lancer (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Advanced Busterhawk Gley Lancer (Japan)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19920717T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Nippon Computer Systems (NCS)</publisher>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<md5>8bd4a97783cda077c342173df0a9b51e</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Advanced Busterhawk Gley Lancer (Japan) translated (KR).zip</path>
 		<name>그레이 랜서</name>
-		<genre>Shooting</genre>
+		<desc>A side-scrolling sci-fi shooter, Gleylancer casts you as Lucia, a young pilot in the Space Fleet of starfighters that hijacks the experimental Gleylancer fighter to go explore the outer borders of known space in search of her missing father. Along the way Lucia will have to shoot down dozens of enemies in standard shooter fashion, while avoiding destruction and collecting power-ups that extend her ship's energy, upgrade weapons and gather screen-clearing bombs.
+
+The Gleylancer comes equipped with two hovering satellites that can receive weapon upgrades of their own, and can lock their positions at specific angles to increase your firepower and protect the player from enemy attacks. Features only a single-player campaign with two different endings depending on how the final stages are completed (e.g. if Lucia's father is rescued or not).</desc>
+		<image>./images/Advanced Busterhawk Gley Lancer (Japan)-image.png</image>
+		<video>./videos/Advanced Busterhawk Gley Lancer (Japan)-video.mp4</video>
+		<marquee>./images/Advanced Busterhawk Gley Lancer (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Advanced Busterhawk Gley Lancer (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Advanced Busterhawk Gley Lancer (Japan)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19920717T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Nippon Computer Systems (NCS)</publisher>
+		<genre>Shoot'em Up / Horizontal</genre>
 		<md5>440dfeee1009909f75167a9cc1d57f15</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Alex.Kidd.in.the.Enchanted.Castle.Kor.smd</path>
-		<name>알렉스 키드:천공마성</name>
-		<genre>Action</genre>
-		<md5>1786d2b7939adc6f941617104ef868ad</md5>
+		<path>./Alex Kidd - Cheongong Maseong (Korea).zip</path>
+		<name>알렉스 키드 : 천공마성</name>
+		<desc>Alex Kidd, resident of planet Aries, is the brother to the king. One day he comes across a rumor that his long lost father, King Thor, is alive and somewhere on the planet Paperock. 
+
+Now Paperock is a place where you have to be good at the game of 'Paper, Rock and Scissors' to get anywhere. With that knowledge you must take control of Alex, guide him through the odd natured, unfriendly planet and help him find his father.</desc>
+		<image>./images/Alex Kidd - Cheongong Maseong (Korea)-image.png</image>
+		<video>./videos/Alex Kidd - Cheongong Maseong (Korea)-video.mp4</video>
+		<marquee>./images/Alex Kidd - Cheongong Maseong (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Alex Kidd - Cheongong Maseong (Korea)-thumb.png</thumbnail>
+		<manual>./manuals/Alex Kidd - Cheongong Maseong (Korea)-manual.pdf</manual>
+		<rating>0.55</rating>
+		<releasedate>19890814T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Alex Kidd</family>
+		<md5>088bdda3f56e794f06c02eeea1c033b6</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Alisia.Dragoon.Kor.gen</path>
+		<path>./Alisia Dragoon (USA).zip</path>
+		<name>Alisia Dragoon</name>
+		<desc>The pace is intense. Enemies come at Alisia from everywhere. And nowhere. Battle hordes of crazed barbarians, mow down mobs of poisonous centipedes, and slay squadrons of winged gargoyles. Blast enemies in waves or one by one with multi-directional, auto-targeting laser fire.
+
+Recruit killer companions like the DragonFrye, Ball O'Fire, Thunder Raven and Boomerang Lizard. Use them to hurl blistering boomerangs, fireballs, and electrical attacks. With Alisia's super-tough fighting skills, fry enemies to a crisp. And prove once and for all that you can go hand-to-hand with evil and come out the champion!</desc>
+		<image>./images/Alisia Dragoon (USA)-image.png</image>
+		<video>./videos/Alisia Dragoon (USA)-video.mp4</video>
+		<marquee>./images/Alisia Dragoon (USA)-marquee.png</marquee>
+		<thumbnail>./images/Alisia Dragoon (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Alisia Dragoon (USA)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19920201T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<md5>77be06102101759f30b416d80872c8da</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Alisia Dragoon (USA) translated (KR).zip</path>
 		<name>알리시아 드래곤</name>
-		<genre>Shooting</genre>
+		<desc>The pace is intense. Enemies come at Alisia from everywhere. And nowhere. Battle hordes of crazed barbarians, mow down mobs of poisonous centipedes, and slay squadrons of winged gargoyles. Blast enemies in waves or one by one with multi-directional, auto-targeting laser fire.
+
+Recruit killer companions like the DragonFrye, Ball O'Fire, Thunder Raven and Boomerang Lizard. Use them to hurl blistering boomerangs, fireballs, and electrical attacks. With Alisia's super-tough fighting skills, fry enemies to a crisp. And prove once and for all that you can go hand-to-hand with evil and come out the champion!</desc>
+		<image>./images/Alisia Dragoon (USA)-image.png</image>
+		<video>./videos/Alisia Dragoon (USA)-video.mp4</video>
+		<marquee>./images/Alisia Dragoon (USA)-marquee.png</marquee>
+		<thumbnail>./images/Alisia Dragoon (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Alisia Dragoon (USA)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19920201T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
 		<md5>c725aed638f295430114981ba7279491</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Contra-The.Hard.Corps.Kor.gen</path>
+		<path>./Contra - The Hard Corps (Japan).zip</path>
+		<name>Contra : The Hard Corps</name>
+		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
+		<image>./images/Contra - The Hard Corps (Japan)-image.png</image>
+		<video>./videos/Contra - The Hard Corps (Japan)-video.mp4</video>
+		<marquee>./images/Contra - The Hard Corps (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Contra - The Hard Corps (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Contra - The Hard Corps (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19940915T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Contra</family>
+		<md5>3d94f57af4258416e65197a9da854219</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Contra - The Hard Corps (Japan) translated (KR).zip</path>
 		<name>혼두라:하드코어</name>
-		<genre>Action</genre>
+		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
+		<image>./images/Contra - The Hard Corps (Japan)-image.png</image>
+		<video>./videos/Contra - The Hard Corps (Japan)-video.mp4</video>
+		<marquee>./images/Contra - The Hard Corps (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Contra - The Hard Corps (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Contra - The Hard Corps (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19940915T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Contra</family>
 		<md5>3d557a83e44dfe6456cf69d84c818b56</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
@@ -55,17 +162,85 @@ As she kills enemies and gather orbs, Dahna gains experience points, which grant
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./El.Viento.Kor.gen</path>
+		<path>./El.Viento (Japan).zip</path>
+		<name>El. Viento</name>
+		<desc>In 1930s New York, a dark cult plans the resurrection of their master, the Dark Prince Hastur, in order to control all of New York and the world. The mob is on their side in this, funding their dark projects and rituals needed to bring their dark master out into their world.
+
+The only one that can stop them is a young girl named Annet... born of the cursed bloodline of Hastur, yet against his plans. Her only weapon: a mystic boomerang known as El Viento...
+
+As Annet, you will do battle with the mob, navigating through Sewers, Caves and buildings, collecting bonus items along the way.</desc>
+		<image>./images/El.Viento (Japan)-image.png</image>
+		<video>./videos/El.Viento (Japan)-video.mp4</video>
+		<marquee>./images/El.Viento (Japan)-marquee.png</marquee>
+		<thumbnail>./images/El.Viento (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/El.Viento (Japan)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19910920T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Platform / Run &amp; Jump</genre>
+		<md5>150e774ff1c31a76095a8bddf9975456</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./El.Viento (Japan) translated (KR).zip</path>
 		<name>엘 비엔토</name>
-		<genre>Action</genre>
+		<desc>In 1930s New York, a dark cult plans the resurrection of their master, the Dark Prince Hastur, in order to control all of New York and the world. The mob is on their side in this, funding their dark projects and rituals needed to bring their dark master out into their world.
+
+The only one that can stop them is a young girl named Annet... born of the cursed bloodline of Hastur, yet against his plans. Her only weapon: a mystic boomerang known as El Viento...
+
+As Annet, you will do battle with the mob, navigating through Sewers, Caves and buildings, collecting bonus items along the way.</desc>
+		<image>./images/El.Viento (Japan)-image.png</image>
+		<video>./videos/El.Viento (Japan)-video.mp4</video>
+		<marquee>./images/El.Viento (Japan)-marquee.png</marquee>
+		<thumbnail>./images/El.Viento (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/El.Viento (Japan)-manual.pdf</manual>
+		<rating>0.65</rating>
+		<releasedate>19910920T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Platform / Run &amp; Jump</genre>
 		<md5>633c0e5310a999e44ea06a9e1537cfe7</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Elemental.Master.Kor.bin</path>
+		<path>./Elemental Master (USA).zip</path>
+		<name>Elemental Master</name>
+		<desc>Elemental Master's gameplay is similar to a top-down space shooter (i.e Raptor &amp; Raiden), but what makes it unique is the fact you play as a human instead of space-ship.
+
+There are different kinds of weapons which you can use. Like other games in the genre you also have tons of strange enemies to destroy.</desc>
+		<image>./images/Elemental Master (USA)-image.png</image>
+		<video>./videos/Elemental Master (USA)-video.mp4</video>
+		<marquee>./images/Elemental Master (USA)-marquee.png</marquee>
+		<thumbnail>./images/Elemental Master (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Elemental Master (USA)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Technosoft</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Shoot'em Up / Vertical</genre>
+		<md5>9b04970a603ace521c7cca2acaf69804</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Elemental Master (USA) translated (KR).zip</path>
 		<name>엘레멘탈 마스터</name>
-		<genre>Shooting</genre>
+		<desc>Elemental Master's gameplay is similar to a top-down space shooter (i.e Raptor &amp; Raiden), but what makes it unique is the fact you play as a human instead of space-ship.
+
+There are different kinds of weapons which you can use. Like other games in the genre you also have tons of strange enemies to destroy.</desc>
+		<image>./images/Elemental Master (USA)-image.png</image>
+		<video>./videos/Elemental Master (USA)-video.mp4</video>
+		<marquee>./images/Elemental Master (USA)-marquee.png</marquee>
+		<thumbnail>./images/Elemental Master (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Elemental Master (USA)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Technosoft</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Shoot'em Up / Vertical</genre>
 		<md5>d3a6a9e00990486781e49cc23ed54816</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
@@ -93,15 +268,65 @@ Exile is a hybrid action/role-playing game. Travel and exploration occurs in the
 	<game>
 		<path>./Exile - Toki no Hazama he (Japan) translated (KR).zip</path>
 		<name>엑자일</name>
-		<genre>Action-RPG</genre>
+		<desc>Exile concerns the desert adventures of Sadler, the great hero whose revolt years before led to the downfall of a powerful empire. Recently, however, peace was broken in Sadler's home country, as the rival Luciel empire has been launching attacks on the Village of Dunes.
+
+Exile is a hybrid action/role-playing game. Travel and exploration occurs in the traditional overhead view of RPGs, while the battles and dungeons are side-scrolling mazes, similar to Wanderers from Ys. Characters gain experience and levels, buy equipment, and use magic.</desc>
+		<image>./images/Exile - Toki no Hazama he (Japan)-img.png</image>
+		<video>./videos/Exile - Toki no Hazama he (Japan)-video.mp4</video>
+		<marquee>./images/Exile - Toki no Hazama he (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Exile - Toki no Hazama he (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Exile - Toki no Hazama he (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19911205T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Telenet</publisher>
+		<genre>Role Playing Game</genre>
 		<md5>72ccde45461ef3cd1de9e99a1c4e0744</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Gunstar.Heroes.Kor.md</path>
+		<path>./Gunstar Heroes (Japan).zip</path>
+		<name>Gunstar Heroes</name>
+		<desc>Chaos has broken out on the planet Gunstar-9!!
+
+The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
+
+Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!</desc>
+		<image>./images/Gunstar Heroes (Japan)-image.png</image>
+		<video>./videos/Gunstar Heroes (Japan)-video.mp4</video>
+		<marquee>./images/Gunstar Heroes (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Gunstar Heroes (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Gunstar Heroes (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19930910T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Gunstar</family>
+		<md5>bc578767a82f008cd2d3f4226a98ec32</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Gunstar Heroes translated(KR).zip</path>
 		<name>건스타 히어로즈</name>
-		<genre>Action</genre>
+		<desc>Chaos has broken out on the planet Gunstar-9!!
+
+The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
+
+Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!</desc>
+		<image>./images/Gunstar Heroes (Japan)-image.png</image>
+		<video>./videos/Gunstar Heroes (Japan)-video.mp4</video>
+		<marquee>./images/Gunstar Heroes (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Gunstar Heroes (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Gunstar Heroes (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19930910T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Gunstar</family>
 		<md5>b8e4f426307c0a26c80e140da9ab164d</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
@@ -128,13 +353,17 @@ The game includes several different game modes, including the main story mode wh
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Honoo no Toukyuuji - Dodge Danpei (Japan) transformed (KR).zip</path>
+		<path>./Honoo no Toukyuuji - Dodge Danpei (Japan) translated (KR).zip</path>
 		<name>피구왕 통키</name>
 		<desc>Danpei Ichigeki is a young boy who loves dodgeball. Danpei's father was a famous dodgeball player when he was still alive, and he joins the Dodgeball Club at his elementary school. However, these kids are very serious about their dodgeball, and the road ahead isn't going to be easy for Danpei.
 
 Dodge Danpei is a team dodgeball game, one of several based on the anime and manga created by Tetsuhiro Koshita, which plays strikingly similar to the well-known Super Dodge Ball. Each team has four main players and three support players, and attempts to knock out the opposing team's main members by throwing the ball at them in various ways. Apart from normal throws, the player can also pass to teammates, and execute special power throws which are harder to dodge or catch.
 
 The game includes several different game modes, including the main story mode which follows the story of the anime, as well as one- and two-player exhibition matches. There is also a "league" mode which allows for a tournament of up to six teams, as well as a training mode where the game teaches the basics of how to play the game.</desc>
+		<image>./images/Honoo no Toukyuuji - Dodge Danpei (Japan)-img.png</image>
+		<video>./videos/Honoo no Toukyuuji - Dodge Danpei (Japan)-video.mp4</video>
+		<marquee>./images/Honoo no Toukyuuji - Dodge Danpei (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Honoo no Toukyuuji - Dodge Danpei (Japan)-thumb.png</thumbnail>
 		<releasedate>19920710T000000</releasedate>
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
@@ -145,10 +374,42 @@ The game includes several different game modes, including the main story mode wh
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Landstalker.Kor.bin</path>
+		<path>./Landstalker - Koutei no Zaihou (Japan).zip</path>
+		<name>Landstalker : Koutei no Zaihou</name>
+		<desc>A jovial fantasy yarn, Landstalker is the title that put Climax Entertainment on the map.  Following the exploits of elvish treasure hunter, Nigel, and his pixie friend, Friday, they travel to a distant island to find the long lost treasure of King Nole.
+
+The game can draw many parallels to the Zelda series, due to the game?셲 mostly whimsical style and emphasis on item collecting.  However, Landstalker is more meticulous, moving at a slower and more developed rate, with an abundance of towns and NPCs rounding out the cast.</desc>
+		<image>./images/Landstalker - Koutei no Zaihou (Japan)-image.png</image>
+		<video>./videos/Landstalker - Koutei no Zaihou (Japan)-video.mp4</video>
+		<marquee>./images/Landstalker - Koutei no Zaihou (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Landstalker - Koutei no Zaihou (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Landstalker - Koutei no Zaihou (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19921030T000000</releasedate>
+		<developer>Climax</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game</genre>
+		<md5>d9a7922681a126653dc16a0d907d7f32</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Landstalker - Koutei no Zaihou (Japan) translated (KR).zip</path>
 		<name>랜드스토커</name>
-		<genre>Action-RPG</genre>
-		<md5>3b8d4629fcdd9c476fd41fb8ce8d1f3e</md5>
+		<desc>A jovial fantasy yarn, Landstalker is the title that put Climax Entertainment on the map.  Following the exploits of elvish treasure hunter, Nigel, and his pixie friend, Friday, they travel to a distant island to find the long lost treasure of King Nole.
+
+The game can draw many parallels to the Zelda series, due to the game?셲 mostly whimsical style and emphasis on item collecting.  However, Landstalker is more meticulous, moving at a slower and more developed rate, with an abundance of towns and NPCs rounding out the cast.</desc>
+		<image>./images/Landstalker - Koutei no Zaihou (Japan)-image.png</image>
+		<video>./videos/Landstalker - Koutei no Zaihou (Japan)-video.mp4</video>
+		<marquee>./images/Landstalker - Koutei no Zaihou (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Landstalker - Koutei no Zaihou (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Landstalker - Koutei no Zaihou (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Climax</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game</genre>
+		<md5>3a4a21f894f011b3f57bf636a3386f53</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
@@ -224,6 +485,11 @@ Based on the 1989 TV anime Magical Hat, produced by Studio Pierrot and based on 
 There are a wide range of different power-up items that can be obtained in the game, which will do things like give you temporary invincibility, freeze all the enemies for a short time, give you an extra-high jump, or even call in air support from a helicopter. At the end of each stage, you can play a game of chance to win extra items and lives.
 
 A heavily modified version of the game was released outside of Japan as DEcapAttack. The graphics, sound, story, and many of the stages were changed.</desc>
+		<image>./images/Magical Hat no Buttobi Turbo! Daibouken (Japan)-img.png</image>
+		<video>./videos/Magical Hat no Buttobi Turbo! Daibouken (Japan)-video.mp4</video>
+		<marquee>./images/Magical Hat no Buttobi Turbo! Daibouken (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Magical Hat no Buttobi Turbo! Daibouken (Japan)-thumb.png</thumbnail>
+		<rating>0.8</rating>
 		<releasedate>19901215T000000</releasedate>
 		<developer>Tokai Engineering</developer>
 		<publisher>SEGA</publisher>
@@ -254,17 +520,97 @@ A heavily modified version of the game was released outside of Japan as DEcapAtt
 		<path>./Magical Taruruuto-kun (Japan) translated (KR).zip</path>
 		<name>매지컬 타루루토군</name>
 		<desc>Based on a popular manga comedy published in Shonen Jump, Magical Taruruuto-kun is about a boy named Edojou Honmaru who is constantly being bullied at school until he calls the titular hero Taruruuto from another world to help him. It is a cutesy platform game that plays similarly to most other games of its genre. There are many hazards to jump over and end of level boss fights, Taruruuto can hit enemies with his wand or pick up items and throw them.</desc>
+		<image>./images/Magical Taruruuto-kun (Japan)-img.png</image>
+		<video>./videos/Magical Taruruuto-kun (Japan)-video.mp4</video>
+		<marquee>./images/Magical Taruruuto-kun (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Magical Taruruuto-kun (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Magical Taruruuto-kun (Japan)-manual.pdf</manual>
+		<rating>0.55</rating>
 		<releasedate>19920424T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>SEGA</publisher>
 		<genre>Platform</genre>
 		<md5>b61724efd514a14683c82e500a1657e6</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Musha.Aleste-Full.Metal.Fighter.Ellinor.Kor.gen</path>
+		<path>./Mugen Senshi Valis (Japan).zip</path>
+		<name>Mugen Senshi Valis</name>
+		<desc>Yuko Asou is an ordinary Japanese teenager with an ordinary life - until one day she is attacked by a monster on the street. Out of nowhere, a sword appears in her hands. She fights the monsters who have suddenly invaded the city, and is summoned to the parallel world known as Vecanti, which is ruled by a cruel tyrant named Rogles, whose actions disrupt the balance of the the worlds. Wielding the legendary Valis sword, Yuko must defeat Rogles and restore the balance.
+
+Valis has the same story and basic genre (platform action) as the  original first game in the  series; however, it is a different game with different locations, regular enemies and bosses, new cut scenes, etc.  Defeating the numerous enemies populating the game world requires precise usage of jumping and ducking abilities, and attack timing. Yuko can jump very high and attack while jumping. Various power-ups are scattered through the game, many of which enhance the performance of Yuko's sword. Acting as a melee weapon in the beginning, it can be customized with power-ups and turn into a medium-range weapon, firing shots at the enemies - with proper power-ups, also in different directions. Boss enemies typically have different attack patterns and require different strategies to defeat them.</desc>
+		<image>./images/Mugen Senshi Valis (Japan)-image.png</image>
+		<video>./videos/Mugen Senshi Valis (Japan)-video.mp4</video>
+		<marquee>./images/Mugen Senshi Valis (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Mugen Senshi Valis (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Mugen Senshi Valis (Japan)-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19911227T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Valis</family>
+		<md5>dcf5a4f9439704d8599457d52af5d0fe</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Mugen Senshi Valis (Japan) translated (KR).zip</path>
+		<name>바리스 1</name>
+		<desc>Yuko Asou is an ordinary Japanese teenager with an ordinary life - until one day she is attacked by a monster on the street. Out of nowhere, a sword appears in her hands. She fights the monsters who have suddenly invaded the city, and is summoned to the parallel world known as Vecanti, which is ruled by a cruel tyrant named Rogles, whose actions disrupt the balance of the the worlds. Wielding the legendary Valis sword, Yuko must defeat Rogles and restore the balance.
+
+Valis has the same story and basic genre (platform action) as the  original first game in the  series; however, it is a different game with different locations, regular enemies and bosses, new cut scenes, etc.  Defeating the numerous enemies populating the game world requires precise usage of jumping and ducking abilities, and attack timing. Yuko can jump very high and attack while jumping. Various power-ups are scattered through the game, many of which enhance the performance of Yuko's sword. Acting as a melee weapon in the beginning, it can be customized with power-ups and turn into a medium-range weapon, firing shots at the enemies - with proper power-ups, also in different directions. Boss enemies typically have different attack patterns and require different strategies to defeat them.</desc>
+		<image>./images/Mugen Senshi Valis (Japan)-image.png</image>
+		<video>./videos/Mugen Senshi Valis (Japan)-video.mp4</video>
+		<marquee>./images/Mugen Senshi Valis (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Mugen Senshi Valis (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Mugen Senshi Valis (Japan)-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19911227T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Valis</family>
+		<md5>2111c954e58b494674b9818f79c0cf62</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Musha Aleste - Full Metal Fighter Ellinor (Japan).zip</path>
+		<name>Musha Aleste : Full Metal Fighter Ellinor</name>
+		<desc>Dire51, a supercomputer crafted to control a space colony, goes rogue and sends its attack robots, led by mech Big Asia., to destroy mankind. A team of fighters in giant mechs try to stop it, but all but one, Ellinor (Terri in the US version), are killed, leaving Ellinor to save humanity from destruction on his own.</desc>
+		<image>./images/Musha Aleste - Full Metal Fighter Ellinor (Japan)-image.png</image>
+		<video>./videos/Musha Aleste - Full Metal Fighter Ellinor (Japan)-video.mp4</video>
+		<marquee>./images/Musha Aleste - Full Metal Fighter Ellinor (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Musha Aleste - Full Metal Fighter Ellinor (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Musha Aleste - Full Metal Fighter Ellinor (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19901221T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Seismic</publisher>
+		<genre>Shoot'em Up / Vertical</genre>
+		<family>Aleste</family>
+		<md5>8e147874de78d95634a807f917b270c5</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Musha Aleste - Full Metal Fighter Ellinor (Japan)_translated_(KR).zip</path>
 		<name>무사 알레스터</name>
-		<genre>Shooting</genre>
-		<md5>bcfdad0c47649466dfb3002dbc568783</md5>
+		<desc>Dire51, a supercomputer crafted to control a space colony, goes rogue and sends its attack robots, led by mech Big Asia., to destroy mankind. A team of fighters in giant mechs try to stop it, but all but one, Ellinor (Terri in the US version), are killed, leaving Ellinor to save humanity from destruction on his own.</desc>
+		<image>./images/Musha Aleste - Full Metal Fighter Ellinor (Japan)-image.png</image>
+		<video>./videos/Musha Aleste - Full Metal Fighter Ellinor (Japan)-video.mp4</video>
+		<marquee>./images/Musha Aleste - Full Metal Fighter Ellinor (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Musha Aleste - Full Metal Fighter Ellinor (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Musha Aleste - Full Metal Fighter Ellinor (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19901221T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Seismic</publisher>
+		<genre>Shoot'em Up / Vertical</genre>
+		<family>Aleste</family>
+		<md5>ef23315f3ea7a2730e0bb1d4b1960860</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
@@ -289,18 +635,140 @@ In this game you play Joe Yamata (Kujaku) on a quest to rescue Alexandra from th
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Phantasy.Star.II.Kor.bin</path>
-		<name>판타지 스타 2</name>
-		<genre>RPG</genre>
-		<md5>2892ad354cede7d460134b542e8b192a</md5>
+		<path>./Phantasy Star - Sennenki no Owari ni (Japan).zip</path>
+		<name>Phantasy Star : Sennenki no Owari ni</name>
+		<desc>The Algo star system is in troubled times...
+
+Many thousands of years ago, the Algo Star System was a peaceful system. Three planets surrounded the peaceful Algo star and were in perfect harmony: Palma, a lush green planet, where its citizens devoted their lives to arts and the sciences. Motavia, a desert planet, inhabited by humans and native Motavians, and the enigmatic Dezolis, a harsh ice planet, where the citizens were just as unknown as the planet itself. Unfortunately, the harmony and balance was not to last. Palma had exploded, and with it, 90% of the population of Algo died. Motavia had fallen into horrible conditions from the explosion, turning almost into a total wasteland. The Darkness spread its hand over the land...
+
+Now, 1,000 years had passed. Motavia had healed somewhat, and life was beginning to return to the way it once was thousands of years ago. The Hunter's Guild on Motavia helped to keep things steady. But now, a dark evil once thought to be long dead is beginning to stir once again, and the young Hunter, Chaz, is about to begin his ultimate adventure - and all of it started with one simple routine assignment...
+
+The gameplay of the fourth entry in the  Phantasy Star is similar to that of the  second installment, sharing notable features such as the ability to equip two weapons at once, different healing items for humans and androids, most of the "techniques" (equivalent to magic spells in comparable games), etc. As before, leveling up and technique-learning is automatic. There are a few segments in the game with vehicle combat, which mostly follows the same turn-based formula as the regular battles. Side quests are present in form of hunter assignments for Chaz and his friends.</desc>
+		<image>./images/Phantasy Star - Sennenki no Owari ni (Japan)-image.png</image>
+		<video>./videos/Phantasy Star - Sennenki no Owari ni (Japan)-video.mp4</video>
+		<marquee>./images/Phantasy Star - Sennenki no Owari ni (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Phantasy Star - Sennenki no Owari ni (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Phantasy Star - Sennenki no Owari ni (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19940402T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<family>Phantasy Star</family>
+		<md5>8d72fa4371e4084b645637ec9e5188de</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Phantasy Star - Sennenki no Owari ni (Japan) translated (KR).zip</path>
+		<name>판타지 스타 4</name>
+		<desc>The Algo star system is in troubled times...
+
+Many thousands of years ago, the Algo Star System was a peaceful system. Three planets surrounded the peaceful Algo star and were in perfect harmony: Palma, a lush green planet, where its citizens devoted their lives to arts and the sciences. Motavia, a desert planet, inhabited by humans and native Motavians, and the enigmatic Dezolis, a harsh ice planet, where the citizens were just as unknown as the planet itself. Unfortunately, the harmony and balance was not to last. Palma had exploded, and with it, 90% of the population of Algo died. Motavia had fallen into horrible conditions from the explosion, turning almost into a total wasteland. The Darkness spread its hand over the land...
+
+Now, 1,000 years had passed. Motavia had healed somewhat, and life was beginning to return to the way it once was thousands of years ago. The Hunter's Guild on Motavia helped to keep things steady. But now, a dark evil once thought to be long dead is beginning to stir once again, and the young Hunter, Chaz, is about to begin his ultimate adventure - and all of it started with one simple routine assignment...
+
+The gameplay of the fourth entry in the  Phantasy Star is similar to that of the  second installment, sharing notable features such as the ability to equip two weapons at once, different healing items for humans and androids, most of the "techniques" (equivalent to magic spells in comparable games), etc. As before, leveling up and technique-learning is automatic. There are a few segments in the game with vehicle combat, which mostly follows the same turn-based formula as the regular battles. Side quests are present in form of hunter assignments for Chaz and his friends.</desc>
+		<image>./images/Phantasy Star - Sennenki no Owari ni (Japan)-image.png</image>
+		<video>./videos/Phantasy Star - Sennenki no Owari ni (Japan)-video.mp4</video>
+		<marquee>./images/Phantasy Star - Sennenki no Owari ni (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Phantasy Star - Sennenki no Owari ni (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Phantasy Star - Sennenki no Owari ni (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19940402T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fighting</genre>
+		<family>Phantasy Star</family>
+		<md5>a3ae50ae45148c282371aed72d2f65af</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Phantasy.Star.IV-The.End.of.the.Millenium.Kor.gen</path>
-		<name>판타지 스타 4</name>
-		<genre>RPG</genre>
-		<md5>a3ae50ae45148c282371aed72d2f65af</md5>
+		<path>./Phantasy Star II (USA, Europe) (Rev A).zip</path>
+		<name>Phantasy Star II</name>
+		<desc>The people on a technically advanced planet Mota make experiments to create biomechanical creatures. But one day, a creature was created that appeared to be dangerous to the humans themselves. No signal came to the capital city from the experimental labs... You, a nameless young man living in Paleo, Mota's capital, are commanded to go to the labs and check the issue. Your friend Nei, a semi-human girl, goes with you, and other brave adventurers join you on what starts with a simple mission but develops into saving the entire world...
+
+This is the first Phantasy Star game for the Genesis, set in a futuristic world. The turn-based combat allows you to choose between "fight", where the characters simply attack physically for one turn, and "strategy", where you can choose from several sub-commands, to defend, to use a special technique, or to run from the battle. Instead of magic there are "techniques", that require the usage of TP (technique points).</desc>
+		<image>./images/Phantasy Star II (USA, Europe) (Rev A)-image.png</image>
+		<video>./videos/Phantasy Star II (USA, Europe) (Rev A)-video.mp4</video>
+		<marquee>./images/Phantasy Star II (USA, Europe) (Rev A)-marquee.png</marquee>
+		<thumbnail>./images/Phantasy Star II (USA, Europe) (Rev A)-thumb.png</thumbnail>
+		<manual>./manuals/Phantasy Star II (USA, Europe) (Rev A)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Phantasy Star</family>
+		<md5>0fa38b12cf0ab0163d865600ac731a9a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Phantasy Star II (USA, Europe) (Rev A) translated (KR).zip</path>
+		<name>판타지 스타 2</name>
+		<desc>The people on a technically advanced planet Mota make experiments to create biomechanical creatures. But one day, a creature was created that appeared to be dangerous to the humans themselves. No signal came to the capital city from the experimental labs... You, a nameless young man living in Paleo, Mota's capital, are commanded to go to the labs and check the issue. Your friend Nei, a semi-human girl, goes with you, and other brave adventurers join you on what starts with a simple mission but develops into saving the entire world...
+
+This is the first Phantasy Star game for the Genesis, set in a futuristic world. The turn-based combat allows you to choose between "fight", where the characters simply attack physically for one turn, and "strategy", where you can choose from several sub-commands, to defend, to use a special technique, or to run from the battle. Instead of magic there are "techniques", that require the usage of TP (technique points).</desc>
+		<image>./images/Phantasy Star II (USA, Europe) (Rev A)-image.png</image>
+		<video>./videos/Phantasy Star II (USA, Europe) (Rev A)-video.mp4</video>
+		<marquee>./images/Phantasy Star II (USA, Europe) (Rev A)-marquee.png</marquee>
+		<thumbnail>./images/Phantasy Star II (USA, Europe) (Rev A)-thumb.png</thumbnail>
+		<manual>./manuals/Phantasy Star II (USA, Europe) (Rev A)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Phantasy Star</family>
+		<md5>896ddac779d95d0ab9b1fd27946ecaec</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./SD Valis (Japan).zip</path>
+		<name>SD Valis</name>
+		<desc>SYD of Valis is a reworked version of the action-platformer Valis II with simplified gameplay and a "Super Deformed" and kid-friendlier graphic design.
+
+In the game you play as Yuko (Syd in the localized version), a teenage schoolgirl that can wield the magical sword of Valis and must travel to the dreamworld of Vekanti to defeat the evil lurking within it.
+
+The game plays as a side-scrolling action platformer, in which you avoid obstacles by running and jumping around, and must defeat enemies by striking them with your blade. You can collect power-ups that include different weapons and armor types, all of which you can equip at any time during the game.</desc>
+		<image>./images/SD Valis (Japan)-image.png</image>
+		<video>./videos/SD Valis (Japan)-video.mp4</video>
+		<marquee>./images/SD Valis (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Valis (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/SD Valis (Japan)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19920214T000000</releasedate>
+		<developer>Renovation Products</developer>
+		<publisher>Laser Soft</publisher>
+		<genre>Platform</genre>
+		<family>Valis</family>
+		<md5>2cf04c3c4e8504a48136112caf9d51ae</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./SD Valis (Japan)_translated (KR).zip</path>
+		<name>바리스 SD</name>
+		<desc>SYD of Valis is a reworked version of the action-platformer Valis II with simplified gameplay and a "Super Deformed" and kid-friendlier graphic design.
+
+In the game you play as Yuko (Syd in the localized version), a teenage schoolgirl that can wield the magical sword of Valis and must travel to the dreamworld of Vekanti to defeat the evil lurking within it.
+
+The game plays as a side-scrolling action platformer, in which you avoid obstacles by running and jumping around, and must defeat enemies by striking them with your blade. You can collect power-ups that include different weapons and armor types, all of which you can equip at any time during the game.</desc>
+		<image>./images/SD Valis (Japan)-image.png</image>
+		<video>./videos/SD Valis (Japan)-video.mp4</video>
+		<marquee>./images/SD Valis (Japan)-marquee.png</marquee>
+		<thumbnail>./images/SD Valis (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/SD Valis (Japan)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19920214T000000</releasedate>
+		<developer>Renovation Products</developer>
+		<publisher>Laser Soft</publisher>
+		<genre>Platform</genre>
+		<family>Valis</family>
+		<md5>e39490790ddb49c4dd829571deacd097</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
@@ -352,7 +820,24 @@ Shining Force is a strategy/RPG.  As you make your way through the lands of Rune
 	<game>
 		<path>./Shining Force (USA) translated (KR).zip</path>
 		<name>샤이닝 포스 1</name>
-		<genre>Simulation-RPG</genre>
+		<desc>In a wondrous land perhaps not so far from our world, a strange and terrible series of events took place. The powers of darkness, led by Dark Dragon, fought for control of the world of Rune. Legendary warriors of light fought them with the ancient and modern weapons of the time, and drove Dark Dragon into another dimension. But Dark Dragon vowed that in 1,000 years, he would be able to break through the inter-dimensional barrier, back into this world. 
+
+A thousand years of peace and tranquility passed. The people of the world were happy to live their lives in contentment, able to spend time rediscovering the magical and technological wonders destroyed by Dark Dragon and using them to benefit all people. 
+
+But the kingdom of Runefaust has begun a massive attack of the kingdoms of Rune - intending to help Dark Dragon return to this world! A small band of warriors has been sent out on a dangerous journey to fight against the dark forces of Runefaust, and you are the leader. Prepare yourself for the ultimate battle! 
+
+Shining Force is a strategy/RPG.  As you make your way through the lands of Rune, you will be joined by other warriors who wish to stop the forces of Runefaust.  Each warrior has their own strengths and weaknesses.  As you progress through the game you will also gain new weapons and spells.  Use them wisely to stop Dark Dragon from arising and causing havoc in Rune.</desc>
+		<image>./images/Shining Force (USA)-img.png</image>
+		<video>./videos/Shining Force (USA)-video.mp4</video>
+		<marquee>./images/Shining Force (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shining Force (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Shining Force (USA)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Climax</developer>
+		<publisher>SEGA</publisher>
+		<genre>Strategy / Tactical RPG</genre>
+		<family>Shining Force</family>
 		<md5>d40e7455e1c0d43d87ddd8f811aec693</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
@@ -383,7 +868,22 @@ There are several difficulty levels in the game, selectable when starting a new 
 	<game>
 		<path>./Shining Force II (USA) translated (KR).zip</path>
 		<name>샤이닝 포스 2</name>
-		<genre>Simulation-RPG</genre>
+		<desc>Shining Force II is a strategy/RPG hybrid with cartoon-like graphics. The game is comprised of two modes: exploration, in which the hero and his companions engage in the role-playing game standard of talking to townspeople, exploring new lands, and furthering the plot; and battle mode, in which the combat is resolved from a tactical point of view, with individual combats being resolved from a close-up view with animated characters.
+
+The plot consists of such quests as saving a princess from the clutches of demons, rebuilding the hero's hometown, and uniting the various forces of good together against the hero's nemesis. Along the way, the hero will be joined by many characters who seek to aid him in his journey. Several of these characters can only be obtained by completing side quests. In addition, random battles can occur between the programmed scenarios, giving the hero's party a chance to obtain experience and gain levels outside of the set scenarios.
+
+There are several difficulty levels in the game, selectable when starting a new game. In addition, there is a configuration code that allows cheats to be activated, including the ability to control the enemy units.</desc>
+		<image>./images/Shining Force II (USA)-img.png</image>
+		<video>./videos/Shining Force II (USA)-video.mp4</video>
+		<marquee>./images/Shining Force II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shining Force II (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Shining Force II (USA)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19941002T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game / Tactical RPG</genre>
+		<family>Shining Force</family>
 		<md5>12abb234ff37d30c857feebcdcd0cb25</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
@@ -414,11 +914,11 @@ The game is a first person RPG, with turn-based combat and cartoony graphics. Th
 		<desc>This is a story-driven console-style RPG, and is the first in the three game Shining series for the Genesis (followed by Shining Force and Shining Force 2). The Kingdom of Thornwood has been invaded by Dark Sol's men, and it is your job to vanquish them. You will need the Arms of Light to do this.
 
 The game is a first person RPG, with turn-based combat and cartoony graphics. The dialogue is displayed via dialog bubbles appearing above the characters speaking, although the protagonist never speaks. There are no sub-quests - the secrets in the game involve  the location and use of special metal for forging esoteric items. There are about 25 to 30 hours of gameplay to be found here, before the final battle and ending sequence.</desc>
-		<image>./images/Shining and the Darkness (Japan) translated (KR)-img.png</image>
-		<video>./videos/Shining and the Darkness (Japan) translated (KR)-video.mp4</video>
-		<marquee>./images/Shining and the Darkness (Japan) translated (KR)-marquee.png</marquee>
-		<thumbnail>./images/Shining and the Darkness (Japan) translated (KR)-thumb.png</thumbnail>
-		<manual>./manuals/Shining and the Darkness (Japan) translated (KR)-manual.pdf</manual>
+		<image>./images/Shining and the Darkness (Japan)-img.png</image>
+		<video>./videos/Shining and the Darkness (Japan)-video.mp4</video>
+		<marquee>./images/Shining and the Darkness (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Shining and the Darkness (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Shining and the Darkness (Japan)-manual.pdf</manual>
 		<rating>0.7</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Climax</developer>
@@ -453,7 +953,14 @@ Shura no Mon is a so-called "command action" game based on the manga by Masatosh
 		<desc>Tsukumo Mutsu, a young student of Karate, has come to the city seeking the Jinmukan dojo, looking for a challenge to prove himself. He's gotten lost, but a young girl helps him out. She happens to be the granddaughter of the head of the dojo, and doesn't want him to get involved with the place, but Tsukumo insists on continuing regardless. He walks right in, and takes on the first guy in a karate gi he comes across...
 
 Shura no Mon is a so-called "command action" game based on the manga by Masatoshi Kawahara. The player controls Tsukumo by selecting commands from a list, using different attacks and defensive maneuvers at the appropriate time, with the results shown via brief animated sequences. Between bouts, lightly-animated visual scenes progress the story. The plot closely follows the first arc from the manga, starting with Tsukumo's arrival at the legendary Jinmukan dojo.</desc>
+		<image>./images/Shura no Mon (Japan)-img.png</image>
+		<video>./videos/Shura no Mon (Japan)-video.mp4</video>
+		<marquee>./images/Shura no Mon (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Shura no Mon (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Shura no Mon (Japan)-manual.pdf</manual>
 		<releasedate>19920807T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>SEGA</publisher>
 		<genre>Adventure</genre>
 		<md5>449883533ffdb6c967b0b504bbb51de0</md5>
 		<lang>kr</lang>
@@ -478,58 +985,209 @@ Shura no Mon is a so-called "command action" game based on the manga by Masatosh
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Super.Fantasy.Zone.Kor.gen</path>
+		<path>./Super Fantasy Zone (Japan).zip</path>
+		<name>Super Fantasy Zone</name>
+		<desc>The next-gen sequel to Fantasy Zone, Super Fantasy Zone starts as a strange gravitational force appears in the Menon planet, home of the evil Menon empire and thus a new threat looms over the Fantasy Zone. 
+
+In a sudden strike by the Menon forces O-Papa, Opa-Opa's father, is fatally wounded. Thus Opa-Opa once again sets forth to destroy the Menon empire and avenge his father.
+
+Gameplay is identical to the previous games, you control Opa-Opa on a freely scrolling 2D game world and you must seek and destroy all the enemy generators in each level in classic arcade shooter fashion and then face a boss fight. Upon successful completion of a level, you get to spend the coins you collected on it at an upgrade shop, fitting your ship with better weapons and upgrades, and then you head out for the next level.
+
+Small changes in gameplay include the removal of the automatic orientation control as in the Game Gear Fantasy Zone, expanded control mapping that takes advantage of the Mega Drive's extra buttons, and more weapons and items to upgrade your ship with.</desc>
+		<image>./images/Super Fantasy Zone (Japan)-image.png</image>
+		<video>./videos/Super Fantasy Zone (Japan)-video.mp4</video>
+		<marquee>./images/Super Fantasy Zone (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Super Fantasy Zone (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Super Fantasy Zone (Japan)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19920114T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<family>Fantasy Zone</family>
+		<md5>f5683f3b2c24cdd7bc6771ea87efeacf</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Super Fantasy Zone (Japan) translated (KR).zip</path>
 		<name>수퍼 판타지 존</name>
-		<genre>Shooting</genre>
+		<desc>The next-gen sequel to Fantasy Zone, Super Fantasy Zone starts as a strange gravitational force appears in the Menon planet, home of the evil Menon empire and thus a new threat looms over the Fantasy Zone. 
+
+In a sudden strike by the Menon forces O-Papa, Opa-Opa's father, is fatally wounded. Thus Opa-Opa once again sets forth to destroy the Menon empire and avenge his father.
+
+Gameplay is identical to the previous games, you control Opa-Opa on a freely scrolling 2D game world and you must seek and destroy all the enemy generators in each level in classic arcade shooter fashion and then face a boss fight. Upon successful completion of a level, you get to spend the coins you collected on it at an upgrade shop, fitting your ship with better weapons and upgrades, and then you head out for the next level.
+
+Small changes in gameplay include the removal of the automatic orientation control as in the Game Gear Fantasy Zone, expanded control mapping that takes advantage of the Mega Drive's extra buttons, and more weapons and items to upgrade your ship with.</desc>
+		<image>./images/Super Fantasy Zone (Japan)-image.png</image>
+		<video>./videos/Super Fantasy Zone (Japan)-video.mp4</video>
+		<marquee>./images/Super Fantasy Zone (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Super Fantasy Zone (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Super Fantasy Zone (Japan)-manual.pdf</manual>
+		<rating>0.5</rating>
+		<releasedate>19920114T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<family>Fantasy Zone</family>
 		<md5>16e64231e9cbbbc600b5db02ae0f216a</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Super.Shinobi.II.Kor.gen</path>
+		<path>./Super Shinobi II, The (Japan, Korea) (Ja).zip</path>
+		<name>The Super Shinobi II</name>
+		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
+
+In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
+		<image>./images/Super Shinobi II, The (Japan, Korea) (Ja)-image.png</image>
+		<video>./videos/Super Shinobi II, The (Japan, Korea) (Ja)-video.mp4</video>
+		<marquee>./images/Super Shinobi II, The (Japan, Korea) (Ja)-marquee.png</marquee>
+		<thumbnail>./images/Super Shinobi II, The (Japan, Korea) (Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Super Shinobi II, The (Japan, Korea) (Ja)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19930822T000000</releasedate>
+		<developer>Megasoft</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Shinobi</family>
+		<md5>6ce59f3e7ee52dc8c6df7b4d8a166826</md5>
+		<lang>jp,kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Super Shinobi II, The (Japan, Korea) (Ja) translated (KR).zip</path>
 		<name>수퍼 시노비 2</name>
-		<genre>Action</genre>
+		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
+
+In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
+		<image>./images/Super Shinobi II, The (Japan, Korea) (Ja)-image.png</image>
+		<video>./videos/Super Shinobi II, The (Japan, Korea) (Ja)-video.mp4</video>
+		<marquee>./images/Super Shinobi II, The (Japan, Korea) (Ja)-marquee.png</marquee>
+		<thumbnail>./images/Super Shinobi II, The (Japan, Korea) (Ja)-thumb.png</thumbnail>
+		<manual>./manuals/Super Shinobi II, The (Japan, Korea) (Ja)-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19930822T000000</releasedate>
+		<developer>Megasoft</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<family>Shinobi</family>
 		<md5>3c1ebb105dfc9e9d5527392e2b4ff6c3</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Twinkle.Tale.Kor.bin</path>
+		<path>./Twinkle Tale (Japan).zip</path>
+		<name>Twinkle Tale</name>
+		<desc>An overhead scrolling fantasy shoot 'em up, Twinkle Tale casts the player in the role of the young witch Saria, in a quest to rid her magical floating island of the evil creatures that have invaded it.
+
+The game is played from an overhead perspective, with Saria having complete freedom of movement in all directions and with the objective being to clear out all enemies in all 9 stages, looting whatever treasure you can find and defeating each stage's boss.
+
+Saria's offensive weapons come pre-defined as three different spells, which you can freely switch to at any time and level-up by collecting power stars, as well as screen-clearing bombs.</desc>
+		<image>./images/Twinkle Tale (Japan)-image.png</image>
+		<video>./videos/Twinkle Tale (Japan)-video.mp4</video>
+		<marquee>./images/Twinkle Tale (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Twinkle Tale (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Twinkle Tale (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19920724T000000</releasedate>
+		<developer>ZAP</developer>
+		<publisher>Wonder Amusement</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>809887a9535753ee7a13c8a2d365f0eb</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Twinkle Tale (Japan) translated (KR).zip</path>
 		<name>트윙클 테일</name>
-		<genre>Shooting</genre>
+		<desc>An overhead scrolling fantasy shoot 'em up, Twinkle Tale casts the player in the role of the young witch Saria, in a quest to rid her magical floating island of the evil creatures that have invaded it.
+
+The game is played from an overhead perspective, with Saria having complete freedom of movement in all directions and with the objective being to clear out all enemies in all 9 stages, looting whatever treasure you can find and defeating each stage's boss.
+
+Saria's offensive weapons come pre-defined as three different spells, which you can freely switch to at any time and level-up by collecting power stars, as well as screen-clearing bombs.</desc>
+		<image>./images/Twinkle Tale (Japan)-image.png</image>
+		<video>./videos/Twinkle Tale (Japan)-video.mp4</video>
+		<marquee>./images/Twinkle Tale (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Twinkle Tale (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Twinkle Tale (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19920724T000000</releasedate>
+		<developer>ZAP</developer>
+		<publisher>Wonder Amusement</publisher>
+		<genre>Shoot'em Up</genre>
 		<md5>36c68c392f6916dae6c52ba27e0f5283</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Uzu.Keobukseon.Kor.smd</path>
+		<path>./Uzu Keobukseon (Korea).zip</path>
 		<name>우주 거북선</name>
-		<genre>Shooting</genre>
-		<md5>3cf9e91686b6064d64edd81a6201e5fa</md5>
+		<desc>Uzu Keobukseon is a 1992 shoot-'em-up by Samsung released exclusively in Korea for the Sega Mega Drive. It is the only first-party Mega Drive title produced by Samsung, who was Sega's hardware distributor and software translator in Korea.</desc>
+		<image>./images/Uzu Keobukseon (Korea)-image.png</image>
+		<video>./videos/Uzu Keobukseon (Korea)-video.mp4</video>
+		<marquee>./images/Uzu Keobukseon (Korea)-marquee.png</marquee>
+		<thumbnail>./images/Uzu Keobukseon (Korea)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Samsung</developer>
+		<publisher>Samsung</publisher>
+		<genre>Shoot'em Up</genre>
+		<md5>7a3e28e8befbc5134cc0e61614b2023b</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Valis.III.Kor.gen</path>
+		<path>./Valis III (Japan).zip</path>
+		<name>Valis III</name>
+		<desc>Somewhere in the Dark World, evil rears its ugly head once again...
+
+A black-hearted man named Glames, possessor of a sword named Leethus, threatens the Human World, the Dream World, and the Dark World with complete and utter destruction. A young girl from the Dark World named Cham escapes from Glames, and seeks help to destroy him.
+
+She comes to the Human World, searching for the Valis Warrior, Yuko Ahso, and more importantly, the Valis Sword.
+
+Yuko must now help Cham defeat Glames before the three worlds are torn apart!
+
+New improvements over the previous two Valis games include 3 playable characters, 3 unique weapons for each character, and greater, more powerful magic spells.</desc>
+		<image>./images/Valis III (Japan)-image.png</image>
+		<video>./videos/Valis III (Japan)-video.mp4</video>
+		<marquee>./images/Valis III (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Valis III (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Valis III (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19910322T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Telenet</publisher>
+		<genre>Platform</genre>
+		<family>Valis</family>
+		<md5>f22adcdb3907b108f4ae96cb65069ca7</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Valis III (Japan) translated (KR).zip</path>
 		<name>바리스 3</name>
-		<genre>Action</genre>
+		<desc>Somewhere in the Dark World, evil rears its ugly head once again...
+
+A black-hearted man named Glames, possessor of a sword named Leethus, threatens the Human World, the Dream World, and the Dark World with complete and utter destruction. A young girl from the Dark World named Cham escapes from Glames, and seeks help to destroy him.
+
+She comes to the Human World, searching for the Valis Warrior, Yuko Ahso, and more importantly, the Valis Sword.
+
+Yuko must now help Cham defeat Glames before the three worlds are torn apart!
+
+New improvements over the previous two Valis games include 3 playable characters, 3 unique weapons for each character, and greater, more powerful magic spells.</desc>
+		<image>./images/Valis III (Japan)-image.png</image>
+		<video>./videos/Valis III (Japan)-video.mp4</video>
+		<marquee>./images/Valis III (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Valis III (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Valis III (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19910322T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Telenet</publisher>
+		<genre>Platform</genre>
+		<family>Valis</family>
 		<md5>9b28f85012a932367f9b2365796ffc8a</md5>
-		<lang>kr</lang>
-		<scrap name="ScreenScraper" date="300001011T000000" />
-	</game>
-	<game>
-		<path>./Valis.Kor.gen</path>
-		<name>바리스 1</name>
-		<genre>Action</genre>
-		<md5>2111c954e58b494674b9818f79c0cf62</md5>
-		<lang>kr</lang>
-		<scrap name="ScreenScraper" date="300001011T000000" />
-	</game>
-	<game>
-		<path>./Valis.SD.Kor.gen</path>
-		<name>바리스 SD</name>
-		<genre>Action</genre>
-		<md5>e39490790ddb49c4dd829571deacd097</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
@@ -560,6 +1218,12 @@ The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, mus
 		<desc>In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.
 
 The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...</desc>
+		<image>./images/Vampire Killer (Japan)-img.png</image>
+		<video>./videos/Vampire Killer (Japan)-video.mp4</video>
+		<marquee>./images/Vampire Killer (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Vampire Killer (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Vampire Killer (Japan)-manual.pdf</manual>
+		<rating>0.9</rating>
 		<releasedate>19940317T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
@@ -570,24 +1234,66 @@ The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, mus
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Wizard.of.the.Immortal.Kor.md</path>
+		<path>./Wizard of the Immortal (Japan).zip</path>
+		<name>Wizard of the Immortal</name>
+		<desc>The Immortal is an isometric action-adventure game.
+
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of 
+isometric death await.
+
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards. In short: You want to see what challenge lies in the next room.
+
+The puzzles range from simple avoidance of traps to the correct use of items; you collect objects in an inventory. Every now and then, The Immortal surprises with a special challenge. For example, you've got to ride a magic carpet through a hallway full of fire traps, or ride a barrel on an underground river. The dungeon isn't empty: some friedlies may have valuable information or trade items, the nasty sort of guys will attack. Combat is fought man-to-man on a special screen. Your adversary indicates his next attack a few seconds before he executes it, so you've got time to react appropriately. You can dodge to the left or the right, as well as attack from these two directions. There is no save option in the game, of course, but you may restart each level as often as you like. Levels can be skipped by entering passwords.</desc>
+		<image>./images/Wizard of the Immortal (Japan)-image.png</image>
+		<video>./videos/Wizard of the Immortal (Japan)-video.mp4</video>
+		<marquee>./images/Wizard of the Immortal (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizard of the Immortal (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Wizard of the Immortal (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19930810T000000</releasedate>
+		<developer>Sandcastle</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<md5>91135a34a56bff6a502dba1e529c0280</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Wizard of the Immortal (Japan) translated (KR).zip</path>
 		<name>임모탈</name>
-		<genre>Advanture</genre>
+		<desc>The Immortal is an isometric action-adventure game.
+
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of 
+isometric death await.
+
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards. In short: You want to see what challenge lies in the next room.
+
+The puzzles range from simple avoidance of traps to the correct use of items; you collect objects in an inventory. Every now and then, The Immortal surprises with a special challenge. For example, you've got to ride a magic carpet through a hallway full of fire traps, or ride a barrel on an underground river. The dungeon isn't empty: some friedlies may have valuable information or trade items, the nasty sort of guys will attack. Combat is fought man-to-man on a special screen. Your adversary indicates his next attack a few seconds before he executes it, so you've got time to react appropriately. You can dodge to the left or the right, as well as attack from these two directions. There is no save option in the game, of course, but you may restart each level as often as you like. Levels can be skipped by entering passwords.</desc>
+		<image>./images/Wizard of the Immortal (Japan)-image.png</image>
+		<video>./videos/Wizard of the Immortal (Japan)-video.mp4</video>
+		<marquee>./images/Wizard of the Immortal (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Wizard of the Immortal (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Wizard of the Immortal (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19930810T000000</releasedate>
+		<developer>Sandcastle</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
 		<md5>8d8ddc03824086d9da0d2d854f8360e9</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Ys.III-Wanderers.from.Ys.Jpn.gen</path>
+		<path>./Ys III - Wanderers from Ys (Japan).zip</path>
 		<name>イース3:ワンダラーズ フロム イース</name>
 		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
 
 Ys III breaks away from the "bumping into enemies" battle system of the first two games and allows Adol to control his sword in a variety of directions.  As well as changing the battle system, the game is now side scrolling instead of the previous games top-down view. Adol also now has the ability to jump.  Not new to the series is the use of magical rings which give Adol different powering up abilities such as healing and shielding.  The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
-		<image>./images/Ys.III-Wanderers.from.Ys.Jpn-img.png</image>
-		<video>./videos/Ys.III-Wanderers.from.Ys.Jpn-video.mp4</video>
-		<marquee>./images/Ys.III-Wanderers.from.Ys.Jpn-marquee.png</marquee>
-		<thumbnail>./images/Ys.III-Wanderers.from.Ys.Jpn-thumb.png</thumbnail>
-		<manual>./manuals/Ys.III-Wanderers.from.Ys.Jpn-manual.pdf</manual>
+		<image>./images/Ys III - Wanderers from Ys (Japan)-img.png</image>
+		<video>./videos/Ys III - Wanderers from Ys (Japan)-video.mp4</video>
+		<marquee>./images/Ys III - Wanderers from Ys (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Ys III - Wanderers from Ys (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Ys III - Wanderers from Ys (Japan)-manual.pdf</manual>
 		<rating>0.95</rating>
 		<releasedate>19911201T000000</releasedate>
 		<developer>Nihon Falcom</developer>
@@ -599,16 +1305,17 @@ Ys III breaks away from the "bumping into enemies" battle system of the first tw
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Ys.III-Wanderers.from.Ys.Kor.gen</path>
+		<path>./Ys III - Wanderers from Ys (Japan) translated (KR).zip</path>
 		<name>이스 3</name>
 		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
 
 Ys III breaks away from the "bumping into enemies" battle system of the first two games and allows Adol to control his sword in a variety of directions.  As well as changing the battle system, the game is now side scrolling instead of the previous games top-down view. Adol also now has the ability to jump.  Not new to the series is the use of magical rings which give Adol different powering up abilities such as healing and shielding.  The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
-		<image>./images/Ys.III-Wanderers.from.Ys.Jpn-img.png</image>
-		<video>./videos/Ys.III-Wanderers.from.Ys.Jpn-video.mp4</video>
-		<marquee>./images/Ys.III-Wanderers.from.Ys.Jpn-marquee.png</marquee>
-		<thumbnail>./images/Ys.III-Wanderers.from.Ys.Jpn-thumb.png</thumbnail>
-		<manual>./manuals/Ys.III-Wanderers.from.Ys.Jpn-manual.pdf</manual>
+		<image>./images/Ys III - Wanderers from Ys (Japan)-img.png</image>
+		<video>./videos/Ys III - Wanderers from Ys (Japan)-video.mp4</video>
+		<marquee>./images/Ys III - Wanderers from Ys (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Ys III - Wanderers from Ys (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Ys III - Wanderers from Ys (Japan)-manual.pdf</manual>
+		<rating>0.95</rating>
 		<releasedate>19911201T000000</releasedate>
 		<developer>Nihon Falcom</developer>
 		<publisher>Nihon Falcom</publisher>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+		<path>./Bust A Groove (USA).cue</path>
+		<name>Bust A Groove</name>
+		<desc>Match the moves shown on-screen in this Simon-like game to dance.  Keep up with the continuing commands and your persona will be able to do combos and other fancy moves.  Dance different styles as a disco throwback, a breakdancer, a robot, and others, either alone or with a partner.  When dancing with a partner, coordination is important so you can gain a clear lead on him.  When dancing together each character gets an opportunity for a dance solo.  Don't waste it as it's a great time to rack up points.</desc>
+		<image>./images/Bust A Groove (USA)-image.png</image>
+		<video>./videos/Bust A Groove (USA)-video.mp4</video>
+		<marquee>./images/Bust A Groove (USA)-marquee.png</marquee>
+		<thumbnail>./images/Bust A Groove (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Bust A Groove (USA)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Music and Dancing</genre>
+		<md5>71b320c14cdc3faa0d75deb3069260a4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Bust A Move 2 - Dance Tengoku Mix (Japan).cue</path>
+		<name>Bust A Move 2 : Dance Tengoku Mix</name>
+		<desc>BUST A GROOVE 2 continues the PlayStation dance party. Choose a dancer, each created using motion-captured technology and featuring new costumes. After picking a dancer, hit the dance floor in the Practice mode to get a feel for the controls.
+
+When practice is over, hit the dance scene in the One-Player mode, where the goal is to get the crowd and the camera to pay exclusive attention to you. How well you dance will determine what the next challenge will be. When your groove becomes too hot for the computer to handle, compete against friends with the Two-Player mode.
+
+No matter what mode you play, new ska, techno, disco, and hip-hop house beats provide the background for all of the action. If hearing music makes you want to shake your booty, then BUST A GROOVE 2 is the game for you.</desc>
+		<image>./images/Bust A Move 2 - Dance Tengoku Mix (Japan)-image.png</image>
+		<video>./videos/Bust A Move 2 - Dance Tengoku Mix (Japan)-video.mp4</video>
+		<marquee>./images/Bust A Move 2 - Dance Tengoku Mix (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Bust A Move 2 - Dance Tengoku Mix (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Bust A Move 2 - Dance Tengoku Mix (Japan)-manual.pdf</manual>
+		<rating>0.95</rating>
+		<releasedate>19990415T000000</releasedate>
+		<developer>Metro Graphics</developer>
+		<publisher>Enix</publisher>
+		<genre>Music and Dancing</genre>
+		<md5>bd9e566fbb6821058340c47c0ba2822e</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+</gameList>
