@@ -21,9 +21,12 @@ def check_key_name(data, base_dir):
 
         # md5 check
         checksum = calculate_checksums(str(base_dir / path), filename)
-        if checksum["md5"] != v["md5"]:
-            print(checksum["md5"])
-            print(f"{k}: md5 is not match")
+        if checksum is None:
+            print(f"Checksum error: {filename}")
+        else:
+            if checksum["md5"] != v["md5"]:
+                print(checksum["md5"])
+                print(f"{k}: md5 is not match")
 
         if "releaseyear" in v and "releasedate" in v:
             print(f"Release year and release date are both found: {k}")
@@ -42,7 +45,7 @@ def check_key_name(data, base_dir):
 def main():
     base_dir = Path("c:/emul/roms")
 
-    console_model = "megadrive"
+    console_model = "nes"
     if not console_model in CONSOLE_MODELS:
         print(f"Console model {console_model} not supported")
         return

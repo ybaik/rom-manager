@@ -45,4 +45,9 @@ JSON_TAG = [
     "loc_url",
 ]
 
-CONSOLE_MODELS = ["megadrive", "psx"]
+CONSOLE_MODELS = [
+    "nes",
+    "megadrive",
+    "psx",
+    "snes",
+]

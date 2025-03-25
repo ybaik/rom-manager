@@ -5,7 +5,7 @@ from common.fileio import save_xml
 
 
 def main():
-    console_model = "megadrive"
+    console_model = "nes"
     if not console_model in CONSOLE_MODELS:
         print(f"Console model {console_model} not supported")
         return

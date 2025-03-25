@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+		<path>./Captain Tsubasa (Japan).zip</path>
+		<name>Captain Tsubasa</name>
+		<desc>Robin Field loves soccer. He aims to be the best player in the world with the help of his dad (who was former top player) and his little brother Cecil. After successful domestic league campaign, Robin continues his career in the "Tops", which consist of best players seen in the domestic league. Tops participate in the Tecmo Cup, the youth World Cup with best players from around the world. 
+
+Tecmo Cup is a soccer simulator combined with RPG-elements. As the game progress, Robin and his teammates will get better. The matches itself consists of numerous choices what to do at each moment. If you are attacking, you have options to pass, shoot or to dribble. And when you are defending, you can either tackle, cut pass/shoot, or mark the opposition player with ball.</desc>
+		<image>./images/Captain Tsubasa (Japan)-image.png</image>
+		<video>./videos/Captain Tsubasa (Japan)-video.mp4</video>
+		<marquee>./images/Captain Tsubasa (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Captain Tsubasa (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Captain Tsubasa (Japan)-manual.pdf</manual>
+		<rating>0.95</rating>
+		<releasedate>19880428T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports / Football (Soccer)</genre>
+		<family>Captain Tsubasa</family>
+		<md5>eeb77e6e0e0b5695f9a35f47979c4722</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Contra (Japan).zip</path>
+		<name>Contra</name>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<image>./images/Contra (Japan)-image.png</image>
+		<video>./videos/Contra (Japan)-video.mp4</video>
+		<marquee>./images/Contra (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Contra (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Contra (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19880209T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Contra</family>
+		<md5>72d6541992a722549c2dbef33b307fba</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Dragon Ball Z II - Gekishin Freeza!! (Japan).zip</path>
+		<name>Dragon Ball Z II : Gekishin Freeza!!</name>
+		<desc>The second in the Dragon Ball Z RPG series, "Freezer the Planet Destroyer", as it is often unofficially translated, follows closely the popular manga series and continues the story of the first Dragon Ball Z RPG,  Assault of Saiyajins. After the fight against the Saiyajin leader Vegeta, Son Goku, the series' main hero, is heavily wounded, while his ally Piccolo is dead. Son Goku's son Son Gohan and his friends go to the planet Namek to find the magical Dragon Balls that would bring Piccolo back to life. The trouble is, Vegeta is heading to the planet, and so does the evil Freezer, who is also after the Dragon Balls...
+
+You control both Son Gohan's and Son Goku's parties, including popular characters like Krillin, Yamcha, and others. The gameplay is pretty much the same as in the first game. Locations are composed of squares, and you move through them in a board-game-like fashion, drawing cards that will determine the amount of moves you can make. Random cards will also make you participate in battles, heal your party, add extra cards, etc. In battles you also depend on cards - your choice determines the strength of the move and the outcome of the automatic battle.</desc>
+		<image>./images/Dragon Ball Z II - Gekishin Freeza!! (Japan)-image.png</image>
+		<video>./videos/Dragon Ball Z II - Gekishin Freeza!! (Japan)-video.mp4</video>
+		<marquee>./images/Dragon Ball Z II - Gekishin Freeza!! (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball Z II - Gekishin Freeza!! (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Dragon Ball Z II - Gekishin Freeza!! (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19911008T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Dragon Ball</family>
+		<md5>c34a6d7d8c819c972cf76dd0848b5016</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy (Japan).zip</path>
+		<name>Final Fantasy</name>
+		<desc>Hironobu Sakaguchi's Final Fantasy... the first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all.
+
+The world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. "When the world is veiled in darkness, four warriors will come..." And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland, and then the real journey begins...</desc>
+		<image>./images/Final Fantasy (Japan)-image.png</image>
+		<video>./videos/Final Fantasy (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19871218T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game / Japanese RPG</genre>
+		<family>Final Fantasy</family>
+		<md5>81741b7847fa2afda6118df1ebc0bfc6</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy (Japan) translated (KR).zip</path>
+		<name>파이널 판타지 1</name>
+		<desc>Hironobu Sakaguchi's Final Fantasy... the first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all.
+
+The world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. "When the world is veiled in darkness, four warriors will come..." And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland, and then the real journey begins...</desc>
+		<image>./images/Final Fantasy (Japan)-image.png</image>
+		<video>./videos/Final Fantasy (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19871218T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game / Japanese RPG</genre>
+		<family>Final Fantasy</family>
+		<md5>3a00b1a7436dc54f5d1a0477337f734a</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy II (Japan).zip</path>
+		<name>Final Fantasy II</name>
+		<desc>The ruthless emperor of Paramekia leads his demonic armies across the land, laying waste to all in his path. One by one the nations fall, and those without the will to resist are forced into servitude. When the conflict reaches the borders of Phin, its people choose to fight, and are all but annihilated. After the loss of Castle Phin, the survivors flee to nearby Althea, where the rebellion makes a temporary headquarters.
+
+Among the survivors are Frioniel, Maria, and Guy; rescued by the rebel leader Princess Hilda and the white mage Ming-wu. Though young and implusive, they gain Hilda's trust and are allowed to join her battle against the empire. While the road ahead may be paved with loss and sacrifice, each victory brings them closer to reclaiming their homeland.</desc>
+		<image>./images/Final Fantasy II (Japan)-image.png</image>
+		<video>./videos/Final Fantasy II (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy II (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy II (Japan)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19881217T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>4175fc8f00ff6644921d9d816391b3a1</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy II (Japan) translated (KR).zip</path>
+		<name>파이널 판타지 2</name>
+		<desc>The ruthless emperor of Paramekia leads his demonic armies across the land, laying waste to all in his path. One by one the nations fall, and those without the will to resist are forced into servitude. When the conflict reaches the borders of Phin, its people choose to fight, and are all but annihilated. After the loss of Castle Phin, the survivors flee to nearby Althea, where the rebellion makes a temporary headquarters.
+
+Among the survivors are Frioniel, Maria, and Guy; rescued by the rebel leader Princess Hilda and the white mage Ming-wu. Though young and implusive, they gain Hilda's trust and are allowed to join her battle against the empire. While the road ahead may be paved with loss and sacrifice, each victory brings them closer to reclaiming their homeland.</desc>
+		<image>./images/Final Fantasy II (Japan)-image.png</image>
+		<video>./videos/Final Fantasy II (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy II (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy II (Japan)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19881217T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>aa6520b9d2f0196eb15ea2b940c8dc42</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy III (Japan).zip</path>
+		<name>Final Fantasy III</name>
+		<desc>In a remote village of Ur, four orphan boys were raised by the priest Topapa. Once, the Crystal of Wind, guarded by the people of Ur, sank deep into the earth. The four boys decided to retrieve it from there and went down into an underground cave. But when they found the crystal, it spoke to them and from its words they understood they were chosen for a much more important and world-embracing mission...</desc>
+		<image>./images/Final Fantasy III (Japan)-image.png</image>
+		<video>./videos/Final Fantasy III (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy III (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy III (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy III (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19900427T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>ec81c6820151ff0e148840cc56f9a520</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy III (Japan) translated (KR).zip</path>
+		<name>파이널 판타지 3</name>
+		<desc>In a remote village of Ur, four orphan boys were raised by the priest Topapa. Once, the Crystal of Wind, guarded by the people of Ur, sank deep into the earth. The four boys decided to retrieve it from there and went down into an underground cave. But when they found the crystal, it spoke to them and from its words they understood they were chosen for a much more important and world-embracing mission...</desc>
+		<image>./images/Final Fantasy III (Japan)-image.png</image>
+		<video>./videos/Final Fantasy III (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy III (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy III (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy III (Japan)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19900427T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>524874cdc318d0555a3381155971e498</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Ninja Ryuuken Den III - Yomi no Hakobune (Japan).zip</path>
+		<name>Ninja Ryuuken Den III : Yomi no Hakobune</name>
+		<desc>This is the third entry in the series of fast-paced ninja action games, and is the last game in the series to be released on the Nintendo Entertainment System.
+
+Some time has passed since the defeat of Ashtar and the resurrected Jaquio, and Irene Lew has received a new mission to complete. She is to observe a strange factory that has been constructed recently for an unknown purpose, and investigate it. She proceeds to reconnoiter it, but is intercepted and apparently assassinated by her friend Ryu Hayabusa...except it isn't Ryu. It is an imposter. The real Ryu, angered over her death, and the subsequent false accusation that he murdered her, continues her mission and proceeds to investigate the factory.
+
+As stated, this was the last game in the regular series produced for the NES. It had many features the previous games in the series did not, such as a power up to extend the length of your sword, a new vertical "wave" attack and vertically-scrolling levels. The US version of the game is reputed to be the hardest in the series, due to the extra damage incurred when hit, slightly shorter regular sword length, limited continues and more enemies.
+
+The Lynx port is the second Ninja Gaiden game on the platform, the first being a port from the Arcade Version. This port is identical to the NES game, but the in-game picture is compressed for the smaller screen of the Lynx.</desc>
+		<image>./images/Ninja Ryuuken Den III - Yomi no Hakobune (Japan)-image.png</image>
+		<video>./videos/Ninja Ryuuken Den III - Yomi no Hakobune (Japan)-video.mp4</video>
+		<marquee>./images/Ninja Ryuuken Den III - Yomi no Hakobune (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Ninja Ryuuken Den III - Yomi no Hakobune (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Ninja Ryuuken Den III - Yomi no Hakobune (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19910621T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform</genre>
+		<family>Ninja Gaiden</family>
+		<md5>a8d77743df2299776bd5d4662a0c5a66</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Super Contra (Japan).zip</path>
+		<name>Super Contra</name>
+		<desc>The alien Red Falcon is back, and planning on taking over the planet Earth. Now it's up to Scorpion and Mad Dog to battle through five levels and save the planet. Based on the arcade game, Super C is the sequel to Contra. Gameplay is a combination of side scrolling/platform and top down view. There is a wide variety of enemies to defeat, starting with earthly locations, and progressing to more alien. To help out, weapon upgrades can be found as the game progresses. Two players can play simultaneously, or one player can attempt to take on Red Falcon himself.</desc>
+		<image>./images/Super Contra (Japan)-image.png</image>
+		<video>./videos/Super Contra (Japan)-video.mp4</video>
+		<marquee>./images/Super Contra (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Super Contra (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Super Contra (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19900202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Contra</family>
+		<md5>76a1bb61480db03fbb6f5d13a39f3e40</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Super Mario Bros. (World).zip</path>
+		<name>Super Mario Bros.</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<image>./images/Super Mario Bros. (World)-image.png</image>
+		<video>./videos/Super Mario Bros. (World)-video.mp4</video>
+		<marquee>./images/Super Mario Bros. (World)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Bros. (World)-thumb.png</thumbnail>
+		<manual>./manuals/Super Mario Bros. (World)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19851117T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run &amp; Jump</genre>
+		<family>Super Mario Bros</family>
+		<md5>f94bb9bb55f325d9af8a0fff80b9376d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Super Mario Bros. 3 (USA).zip</path>
+		<name>Super Mario Bros. 3</name>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+		<image>./images/Super Mario Bros. 3 (USA)-image.png</image>
+		<video>./videos/Super Mario Bros. 3 (USA)-video.mp4</video>
+		<marquee>./images/Super Mario Bros. 3 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Bros. 3 (USA)-thumb.png</thumbnail>
+		<manual>./manuals/Super Mario Bros. 3 (USA)-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19900212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run &amp; Jump</genre>
+		<family>Super Mario Bros</family>
+		<md5>85f0ddddfe4ab67c42aba48498f42fdc</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+</gameList>
