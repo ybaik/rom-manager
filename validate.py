@@ -45,7 +45,7 @@ def check_key_name(data, base_dir):
 def main():
     base_dir = Path("c:/emul/roms")
 
-    console_model = "nes"
+    console_model = "snes"
     if not console_model in CONSOLE_MODELS:
         print(f"Console model {console_model} not supported")
         return
@@ -68,16 +68,16 @@ def main():
     # Check key name
     check_key_name(json_data, base_dir / console_model)
 
-    # new_json_data = dict()
-    # for k, v in json_data.items():
-    #     new_json_data[k] = dict()
-    #     for tag in JSON_TAG:
-    #         if tag in v:
-    #             new_json_data[k][tag] = v[tag]
+    new_json_data = dict()
+    for k, v in json_data.items():
+        new_json_data[k] = dict()
+        for tag in JSON_TAG:
+            if tag in v:
+                new_json_data[k][tag] = v[tag]
 
-    # with open(json_path, "w", encoding="utf-8") as f:
-    #     json.dump(dict(sorted(new_json_data.items())), f, ensure_ascii=False, indent=4)
-    # return
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(new_json_data.items())), f, ensure_ascii=False, indent=4)
+    return
 
     # Compare the number of key items
     if len(xml_data.keys()) > len(json_data.keys()):

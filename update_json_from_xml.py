@@ -5,7 +5,7 @@ from common.tags import CONSOLE_MODELS, JSON_TAG
 
 
 def main():
-    console_model = "nes"
+    console_model = "snes"
 
     if not console_model in CONSOLE_MODELS:
         print(f"Console model {console_model} not supported")

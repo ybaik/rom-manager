@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+		<path>./Final Fantasy IV (Japan).zip</path>
+		<name>Final Fantasy IV</name>
+		<desc>Final Fantasy IV (called Final Fantasy II in the US) is the first episode of the famous series to be released on Super Nintendo. Powerful crystals have been hidden to prevent them from falling into the wrong hands. However, King Baron decides to take them and sends his loyal knight Cecil to find them. During his quest and by meeting many characters, Cecil will oppose the king's will and will try to prevent Golbez from finding the crystals.</desc>
+		<image>./images/Final Fantasy IV (Japan)-image.png</image>
+		<video>./videos/Final Fantasy IV (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy IV (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy IV (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy IV (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19910719T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>5cdc56ba9f5f23e412af09f11ed47f83</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy IV translated (KR).zip</path>
+		<name>파이널 판타지 4</name>
+		<desc>Final Fantasy IV (called Final Fantasy II in the US) is the first episode of the famous series to be released on Super Nintendo. Powerful crystals have been hidden to prevent them from falling into the wrong hands. However, King Baron decides to take them and sends his loyal knight Cecil to find them. During his quest and by meeting many characters, Cecil will oppose the king's will and will try to prevent Golbez from finding the crystals.</desc>
+		<image>./images/Final Fantasy IV (Japan)-image.png</image>
+		<video>./videos/Final Fantasy IV (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy IV (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy IV (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy IV (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19910719T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>8042d18dcf700b6d2e813f5f59ad291b</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy V (Japan).zip</path>
+		<name>Final Fantasy V</name>
+		<desc>The Elemental Crystals are the life source of the planet. With them, gentle winds blow, the seas are active, fire burns bright, and the earth is full of life. All seems well in the world, until the wind suddenly stops, the sea begin to grow stagnant, the heat of fire becomes scarce, and the earth begins to wither. King Tycoon, sensing a premonition of evil, hurries off to check on the Wind Crystal, only to witness it destroy itself.
+
+Meanwhile, a young traveler named Bartz is camping in a field when a giant meteor strikes the planet. When he heads out to examine the meteor, he is shocked to find a young girl named Lenna, who is the princess of Tycoon, and an old man named Galuf, who is on a critical mission. Later, joined by Faris, a pirate captain, the foursome must travel the land in search of the destroyer of the Crystals, and save the planet at any cost.</desc>
+		<image>./images/Final Fantasy V (Japan)-image.png</image>
+		<video>./videos/Final Fantasy V (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy V (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy V (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy V (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19921206T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>d69b2115e17d1cf2cb3590d3f75febb9</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy V (Japan) translated (KR).zip</path>
+		<name>파이널 판타지 5</name>
+		<desc>The Elemental Crystals are the life source of the planet. With them, gentle winds blow, the seas are active, fire burns bright, and the earth is full of life. All seems well in the world, until the wind suddenly stops, the sea begin to grow stagnant, the heat of fire becomes scarce, and the earth begins to wither. King Tycoon, sensing a premonition of evil, hurries off to check on the Wind Crystal, only to witness it destroy itself.
+
+Meanwhile, a young traveler named Bartz is camping in a field when a giant meteor strikes the planet. When he heads out to examine the meteor, he is shocked to find a young girl named Lenna, who is the princess of Tycoon, and an old man named Galuf, who is on a critical mission. Later, joined by Faris, a pirate captain, the foursome must travel the land in search of the destroyer of the Crystals, and save the planet at any cost.</desc>
+		<image>./images/Final Fantasy V (Japan)-image.png</image>
+		<video>./videos/Final Fantasy V (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy V (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy V (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy V (Japan)-manual.pdf</manual>
+		<rating>0.7</rating>
+		<releasedate>19921206T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>7a0dd30e5f38ef9d6b9901e7ea5592f6</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy VI (Japan).zip</path>
+		<name>Final Fantasy VI</name>
+		<desc>1,000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic".
+
+But then...something happened that would change the course of history forever...
+
+The Empire had heard word of the remains of a mystical being, known as an "Esper", being found in the mining town of Narshe. Quickly, three soldiers were dispatched to find this Esper and bring it to the Emperor. One of the soldiers, a young girl, triggers a power in the Esper that will begin one of the most dangerous series of events ever. And the only ones who can help her are a rag-tag band of rebels and heroes, whose very hearts and souls are the only ones that can save the world from the mad plans of the Empire.</desc>
+		<image>./images/Final Fantasy VI (Japan)-image.jpg</image>
+		<video>./videos/Final Fantasy VI (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy VI (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy VI (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy VI (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19940402T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>97bf78e916b80f47cf35edf502be34dc</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Final Fantasy VI translated (KR).zip</path>
+		<name>파이널 판타지 6</name>
+		<desc>1,000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic".
+
+But then...something happened that would change the course of history forever...
+
+The Empire had heard word of the remains of a mystical being, known as an "Esper", being found in the mining town of Narshe. Quickly, three soldiers were dispatched to find this Esper and bring it to the Emperor. One of the soldiers, a young girl, triggers a power in the Esper that will begin one of the most dangerous series of events ever. And the only ones who can help her are a rag-tag band of rebels and heroes, whose very hearts and souls are the only ones that can save the world from the mad plans of the Empire.</desc>
+		<image>./images/Final Fantasy VI (Japan)-image.jpg</image>
+		<video>./videos/Final Fantasy VI (Japan)-video.mp4</video>
+		<marquee>./images/Final Fantasy VI (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy VI (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Final Fantasy VI (Japan)-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19940402T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role Playing Game</genre>
+		<family>Final Fantasy</family>
+		<md5>c554b40f872693ced4d688d62e7aea11</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Front Mission (Japan).zip</path>
+		<name>Front Mission</name>
+		<desc>In the future, many military forces are dependent on huge mech robots, called Wanzers (Walking Panzers) for combat. At Huffman Island, located in the the pacific ocean, wanzers are deployed by both the USN (United States of the New Continent) and the OCU (Oceana Community Union), who dispute ownership over the island.  One night, the OCU forces stage a covert recon mission on a facility located in Larcus, a USN-held territory and weapons facility. Lead by a soldier named Roid, this mission was entirely unofficial and violated the peace treaty. During the mission, USN forces lead by Commander Driscoll appeared and ambushed the OCU soldiers. During the combat, Roid's fiance, Karen is killed and the USN facility is blown up; placing the blame on the OCU. This became known as the "Larcus Incident" and the OCU denied all knowledge of it's soldiers actions. Ultimately it would be a leading cause to the second Huffman War. 
+
+One year later, the war is underway and Huffman island is under provisional control of the OCU, but with a weakened military unable to defend against USN attacks. The soldiers involved involved in the Larcus Incident have all been discharged and disgraced. Roid spends his time fighting as a gladiator in the Wanzer fighting arena before being approached by a mysterious man. Colonel Olson has found out about Roid's history and wants him to command a mercenary unit he is assembling on behalf of the OCU, dubbed "Carrion Crow". Convincing Roid that Driscoll is still out there on the island, Roid agrees.
+
+Front Mission is a turn-based strategy RPG played from an isometric perspective. Players progress in the story through large strategic battles involving multiple units and cutscenes between them. At certain places, usually towns, the player can visit multiple locations including bars and shops, and talk to people. Shops are also found to purchase new weaponry, parts and make repairs. In combat, each Wanzer robot is a seperate unit and, has a large variety of weapons and attack styles depending on what's equipped. Units get experience for defeating enemies and also for using various techniques. The more an attack is used, the more powerful it becomes.</desc>
+		<image>./images/Front Mission (Japan)-image.png</image>
+		<video>./videos/Front Mission (Japan)-video.mp4</video>
+		<marquee>./images/Front Mission (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Front Mission (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Front Mission (Japan)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Strategy</genre>
+		<family>Front Mission</family>
+		<md5>8098a3d165fff3e4d786e2902d21fd2c</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Front Mission (Japan) translated (KR).zip</path>
+		<name>프론트 미션</name>
+		<desc>In the future, many military forces are dependent on huge mech robots, called Wanzers (Walking Panzers) for combat. At Huffman Island, located in the the pacific ocean, wanzers are deployed by both the USN (United States of the New Continent) and the OCU (Oceana Community Union), who dispute ownership over the island.  One night, the OCU forces stage a covert recon mission on a facility located in Larcus, a USN-held territory and weapons facility. Lead by a soldier named Roid, this mission was entirely unofficial and violated the peace treaty. During the mission, USN forces lead by Commander Driscoll appeared and ambushed the OCU soldiers. During the combat, Roid's fiance, Karen is killed and the USN facility is blown up; placing the blame on the OCU. This became known as the "Larcus Incident" and the OCU denied all knowledge of it's soldiers actions. Ultimately it would be a leading cause to the second Huffman War. 
+
+One year later, the war is underway and Huffman island is under provisional control of the OCU, but with a weakened military unable to defend against USN attacks. The soldiers involved involved in the Larcus Incident have all been discharged and disgraced. Roid spends his time fighting as a gladiator in the Wanzer fighting arena before being approached by a mysterious man. Colonel Olson has found out about Roid's history and wants him to command a mercenary unit he is assembling on behalf of the OCU, dubbed "Carrion Crow". Convincing Roid that Driscoll is still out there on the island, Roid agrees.
+
+Front Mission is a turn-based strategy RPG played from an isometric perspective. Players progress in the story through large strategic battles involving multiple units and cutscenes between them. At certain places, usually towns, the player can visit multiple locations including bars and shops, and talk to people. Shops are also found to purchase new weaponry, parts and make repairs. In combat, each Wanzer robot is a seperate unit and, has a large variety of weapons and attack styles depending on what's equipped. Units get experience for defeating enemies and also for using various techniques. The more an attack is used, the more powerful it becomes.</desc>
+		<image>./images/Front Mission (Japan)-image.png</image>
+		<video>./videos/Front Mission (Japan)-video.mp4</video>
+		<marquee>./images/Front Mission (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Front Mission (Japan)-thumb.png</thumbnail>
+		<manual>./manuals/Front Mission (Japan)-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Strategy</genre>
+		<family>Front Mission</family>
+		<md5>e02d5de38dbb75b5ab68fe6e7e3cba18</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+</gameList>
