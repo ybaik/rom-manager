@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./images/captcomm-image.png</image>
+		<video>./videos/captcomm-video.mp4</video>
+		<marquee>./images/captcomm-marquee.png</marquee>
+		<thumbnail>./images/captcomm-thumb.png</thumbnail>
+		<manual>./manuals/captcomm-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19910928T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<md5>f0d9590b505ad82c75c3efe0909a12ad</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>The plot is based on the comic Cadillacs and Dinosaurs and takes place in the "City In The Sea" and its neighboring nearby jungle. The story starts 500 years from the 20th century, when an ensemble gang called the Black Marketeers begin hunting the dinosaurs to serve their unknown purpose. The continuous hunting process has made the dinosaurs violent and now they have started attacking villages and people. In order to get things sorted again, mechanic and shaman Jack Tenrec, diplomat and explorer by profession Hannah Dundee, friend and engineer Mustapha Cairo, and mysterious Mess O'Bradovich have decided to teamp up against the evil deeds of the Black Marketeer. The protagonists reach "the City in the Sea" where they suspect the whole hunting network being operating from.</desc>
+		<image>./images/dino-image.png</image>
+		<video>./videos/dino-video.mp4</video>
+		<marquee>./images/dino-marquee.png</marquee>
+		<thumbnail>./images/dino-thumb.png</thumbnail>
+		<manual>./manuals/dino-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<md5>94a8d50c789e77a1f396a0893dacbc85</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./dynwar.zip</path>
+		<name>Dynasty Wars / Tenchi wo Kurau</name>
+		<desc>This is a two-player game where you play one of four Chinese heroes on horseback and try to kill all of your enemies. You can swing your weapon forward or backward or use magic to defeat your enemy.The year is 184 AD. The Han Dynasty has been overthrown by rebellious warlords who are ravaging the countryside. Violence is the only language spoken now. and the sword has silenced any opposition. All of China is in a state of turmoil as the situationseems hopeless for the people...
+
+Yet out of the ashes ot‘ the fallen dynasty. four courageous warriors have united in strength to challenge the warlords. But are they strong enough to restore the Han Dynasty to its rightful place of power? Dynasty Wars lets you become one of the four warriors in their quest to defeat the evil warlords.
+
+Special attack features will help you as you ﬁnd yourself in never-ending battle. until you ﬁnally come face to face with the powerful General Thung Chok.</desc>
+		<image>./images/dynwar-image.jpg</image>
+		<video>./videos/dynwar-video.mp4</video>
+		<marquee>./images/dynwar-marquee.png</marquee>
+		<thumbnail>./images/dynwar-thumb.png</thumbnail>
+		<manual>./manuals/dynwar-manual.pdf</manual>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat them all</genre>
+		<md5>e45c907aa7c9d903403d9e7e38b07d68</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./ffight.zip</path>
+		<name>Final Fight</name>
+		<desc>Choosing one of three fighters, Cody, Guy or Mayor Mike Haggar, you make your way through the streets of Metro City battling the forces of the street gang MAD GEAR in order to rescue Cody's girlfriend Jessica the daughter of the mayor from Belger, the evil leader of the gang.
+
+Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>./images/ffight-image.png</image>
+		<video>./videos/ffight-video.mp4</video>
+		<marquee>./images/ffight-marquee.png</marquee>
+		<thumbnail>./images/ffight-thumb.jpg</thumbnail>
+		<manual>./manuals/ffight-manual.pdf</manual>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat them all</genre>
+		<md5>d29325154ab7f38a98c393285dc2a09e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./knights.zip</path>
+		<name>Knights of the Round</name>
+		<desc>This is a hack and slash game featuring King Arthur. Two other players can join the fight against the enemies. If you gain enough points you gain a level and increase in power.
+
+Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./images/knights-image.png</image>
+		<video>./videos/knights-video.mp4</video>
+		<marquee>./images/knights-marquee.png</marquee>
+		<thumbnail>./images/knights-thumb.jpg</thumbnail>
+		<manual>./manuals/knights-manual.pdf</manual>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat them all</genre>
+		<md5>6880eb464064d5a57f4286acd7d6fe77</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./kod.zip</path>
+		<name>The King of Dragons</name>
+		<desc>Up to three players fight in a horizontal scrolling fantasy world against orcs, skelettons, magicians and dragons.
+
+The King of Dragons is a 1991 side-scrolling hack and slash video game that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.</desc>
+		<image>./images/kod-image.png</image>
+		<video>./videos/kod-video.mp4</video>
+		<marquee>./images/kod-marquee.png</marquee>
+		<thumbnail>./images/kod-thumb.png</thumbnail>
+		<manual>./manuals/kod-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat them all</genre>
+		<md5>7ac4089500c40aa2660465b86e8beee7</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./mbomberj.zip</path>
+		<name>Saturday Night Slam Masters</name>
+		<desc>Professional wrestling experienced a sudden increase in popularity during the early 1980s, where many professional wrestling organizations were started all over the world. A severe rivalry existed among the organizations.
+
+In order to resolve this conflict, 8 organizations combined to form the Capcom Professional Wrestling Association (CPWA), led by Victor Ortega, the CPWA’s first champion.
+
+One day, Ortega suddenly vanished. He was considered to be the axis of the sport and his unexpected disappearance caused the CPWA to enter an age of confusion and disorder. The BPWA, a dark underground wrestling organization, chose to take advantage of this opportunity and began moving. With "Fighters of Muscle Bomber = Destiny" as the theme, the CPWA chief executives decided to hold a world tour called the “Crash Carnival,” to decide the new king of the CPWA.
+
+The gong that determines the new “Master of Muscle Bomber” is sounded…</desc>
+		<image>./images/mbomberj-image.png</image>
+		<video>./videos/mbomberj-video.mp4</video>
+		<marquee>./images/mbomberj-marquee.png</marquee>
+		<thumbnail>./images/mbomberj-thumb.png</thumbnail>
+		<manual>./manuals/mbomberj-manual.pdf</manual>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Combat</genre>
+		<md5>cd9d7056b026fbd76680556c5d3e1e03</md5>
+		<lang>jp</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./punisher.zip</path>
+		<name>The Punisher</name>
+		<desc>EVIL CAN RUN, BUT IT CAN'T HIDE!
+
+Left for dead when his family accidentally stumbled on a Mob hit, Frank Castle refused to die.  Fueled by vengeance, he now wages a one-man war on the Mob.  A self-appointed judge, jury and executioner, there is no escaping his verdict.  The guilty must all face... The Punisher.
+
+Picking up a lead on a Mob front in New York, The Punisher blast into action.  Join him and Nick Fury as they smash their way through the streets to take on the New York underworld.  Pound some sense into street punks to gain information or pick up a flame thrower and fry them into submission.  Put together the clues and if you're tough enough, you'll track down and pronounce scentence on the most notorious crime lord of them all - The Kingpin!</desc>
+		<image>./images/punisher-image.png</image>
+		<video>./videos/punisher-video.mp4</video>
+		<marquee>./images/punisher-marquee.png</marquee>
+		<thumbnail>./images/punisher-thumb.jpg</thumbnail>
+		<manual>./manuals/punisher-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat them all</genre>
+		<md5>0ccc3ebb1456d937b02d0a8f22824644</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./sf2.zip</path>
+		<name>Street Fighter II: The World Warrior</name>
+		<desc>The fighting game that revolutionized video games throughout the '90s. Choose one of eight warriors, each with his/her own strengths and weaknesses, and attempt to defeat the other fighters to become the world champion. Battle against computer-controlled opponents or another player.
+
+GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>./images/sf2-image.png</image>
+		<video>./videos/sf2-video.mp4</video>
+		<marquee>./images/sf2-marquee.png</marquee>
+		<thumbnail>./images/sf2-thumb.png</thumbnail>
+		<manual>./manuals/sf2-manual.pdf</manual>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Combat</genre>
+		<md5>0111b5abec1a11d0dc19065b54c9b20c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./wof.zip</path>
+		<name>Warriors Of Fate / Tenchi wo Kurau II: Sekiheki no Tatakai /  Sangokushi II</name>
+		<desc>Warriors of Fate is a beat'em up with nine stages. Each contains large mobs including spearman, archers, strongmen, bomb-wielding opponents, and at least one Wei boss. There can be up to three players on-screen at the same time. Using two buttons, Attack and Jump, the characters all have standard moves typical of Capcom side-scrollers of the day. Common enemies including Wei soldiers such as bandits, privatees, wrestlers, fatties and thieves will keep popping up from everywhere. In the end of each stage there is a Wei general as stage bosses, e.g., Li Dian, Xiahou Dun, Xu Chu, Zhang Liao, Cao Ren, Xu Huang, the infamous Lu Bu as final boss. After defeating them all, there is also Cao Cao himself.
+
+Feudal Chinese warriors fight for their lord against an evil warlord who is wreaking havoc and terror. Beaten opponents drop treasure, books and food which rejuvenate the combatants. Big bosses at the end of each level attempt to prevent your warriors from achieving their goals.
+
+Warriors of Fate follows Liu Bei's plight in Jingzhou from Romance of the Three Kingdoms, a history-based novel of China, set in the Three Kingdoms period as Cao Cao sets to invade his lands. In Warriors of Fate, Shu Han, led by Liu Bei, as in the novel, was everything "good" and "righteous", while Wei, led by the ever suspicious and cunning Cao Cao, is portrayed as "evil" and "bad". Liu Bei's warriors begin by fighting Cao Cao's forces at the Battle of Bowang, then Battle of Changban, then finally join up with Sun Quan to fight at the Battle of Red Cliff.</desc>
+		<image>./images/wof-image.png</image>
+		<video>./videos/wof-video.mp4</video>
+		<marquee>./images/wof-marquee.png</marquee>
+		<thumbnail>./images/wof-thumb.png</thumbnail>
+		<manual>./manuals/wof-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat them all</genre>
+		<md5>c4001de238cb11c2a63b477d66fb5a73</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+</gameList>

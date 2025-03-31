@@ -46,6 +46,8 @@ JSON_TAG = [
 ]
 
 CONSOLE_MODELS = [
+    "cps1",
+    "cps2",
     "nes",
     "megadrive",
     "psx",

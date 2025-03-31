@@ -36,7 +36,7 @@ def calculate_crc32(file_path):
     return None
 
 
-def calculate_checksums(zip_file_path, target_file_name=None):
+def calculate_checksums(zip_file_path, target_file_name=None, zip_disable=False):
     """
     Calculates the MD5 and SHA-256 checksums of a file.
 
@@ -48,7 +48,7 @@ def calculate_checksums(zip_file_path, target_file_name=None):
         if not os.path.isfile(zip_file_path):
             raise FileNotFoundError(f"The file {zip_file_path} does not exist.")
 
-        if zip_file_path.endswith(".zip"):
+        if zip_file_path.endswith(".zip") and not zip_disable:
             if target_file_name is None:
                 return dict()
             with zipfile.ZipFile(zip_file_path, "r") as zip_file:

@@ -6,7 +6,7 @@ from common.tags import CONSOLE_MODELS, JSON_TAG
 from common.fileio import read_xml, save_xml
 
 
-def check_key_name(data, base_dir):
+def check_key_name(data, base_dir, console_model):
     for k, v in data.items():
         path = v["path"].replace("./", "")
 
@@ -20,7 +20,8 @@ def check_key_name(data, base_dir):
             print(f"{k}: {filename} is not found")
 
         # md5 check
-        checksum = calculate_checksums(str(base_dir / path), filename)
+        zip_disable = True if console_model in ["cps1", "cps2"] else False
+        checksum = calculate_checksums(str(base_dir / path), filename, zip_disable)
         if checksum is None:
             print(f"Checksum error: {filename}")
         else:
@@ -45,7 +46,7 @@ def check_key_name(data, base_dir):
 def main():
     base_dir = Path("c:/emul/roms")
 
-    console_model = "snes"
+    console_model = "cps1"
     if not console_model in CONSOLE_MODELS:
         print(f"Console model {console_model} not supported")
         return
@@ -66,7 +67,7 @@ def main():
         return
 
     # Check key name
-    check_key_name(json_data, base_dir / console_model)
+    check_key_name(json_data, base_dir / console_model, console_model)
 
     new_json_data = dict()
     for k, v in json_data.items():
