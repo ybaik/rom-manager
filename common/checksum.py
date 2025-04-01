@@ -4,7 +4,26 @@ import hashlib
 import zipfile
 
 
-def calculate_crc32(file_path):
+def read_data(file_path, target_file_name=None, zip_disable=False):
+    # Ensure the file exists
+    if not os.path.isfile(file_path):
+        raise FileNotFoundError(f"The file {file_path} does not exist.")
+
+    if file_path.endswith(".zip") and not zip_disable:
+        if target_file_name is None:
+            return None
+        with zipfile.ZipFile(file_path, "r") as zip_file:
+            with zip_file.open(target_file_name, "r") as target_file:
+                file_data = target_file.read()
+                return file_data
+    else:
+        # Open the file in binary mode and read it in chunks
+        with open(file_path, "rb") as file:
+            file_data = file.read()
+            return file_data
+
+
+def calculate_crc32(file_path, target_file_name=None, zip_disable=False):
     """
     Calculates the CRC-32 checksum of a file.
 
@@ -19,14 +38,22 @@ def calculate_crc32(file_path):
         # Initialize CRC-32 checksum
         crc32_checksum = 0
 
-        # Open the file in binary mode and read it in chunks
-        with open(file_path, "rb") as file:
-            for chunk in iter(lambda: file.read(65536), b""):
-                crc32_checksum = zlib.crc32(chunk, crc32_checksum)
+        if file_path.endswith(".zip") and not zip_disable:
+            if target_file_name is None:
+                return None
+            with zipfile.ZipFile(file_path, "r") as zip_ref:
+                target_file = zip_ref.open(target_file_name, "r")
+                for chunk in iter(lambda: target_file.read(65536), b""):
+                    crc32_checksum = zlib.crc32(chunk, crc32_checksum)
+        else:
+            # Open the file in binary mode and read it in chunks
+            with open(file_path, "rb") as file:
+                for chunk in iter(lambda: file.read(65536), b""):
+                    crc32_checksum = zlib.crc32(chunk, crc32_checksum)
 
-        # Convert the checksum to a hexadecimal string
-        hex_checksum = f"{crc32_checksum:08x}"
-        return hex_checksum
+            # Convert the checksum to a hexadecimal string
+            hex_checksum = f"{crc32_checksum:08x}"
+            return hex_checksum
 
     except FileNotFoundError as fnf_error:
         print(f"FileNotFoundError: {fnf_error}")

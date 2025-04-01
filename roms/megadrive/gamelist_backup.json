@@ -212,7 +212,7 @@
         "lang": "kr",
         "copyright": "(C)T-32 1991.SEP",
         "serial": "GM T-32063 -00",
-        "localization": "자일리톨-v1.0",
+        "localization": "자일리톨,v1.0",
         "loc_release_date": "2009-10-09",
         "loc_url": "http://nsm53p.tistory.com/366"
     },
@@ -325,10 +325,10 @@
         "md5": "bc578767a82f008cd2d3f4226a98ec32",
         "lang": "jp"
     },
-    "Gunstar Heroes translated(KR)": {
-        "path": "./Gunstar Heroes translated(KR).zip",
+    "Gunstar Heroes (Japan) translated(KR)": {
+        "path": "./Gunstar Heroes (Japan) translated(KR).zip",
         "name": "건스타 히어로즈",
-        "filename": "Gunstar Heroes translated(KR).md",
+        "filename": "Gunstar Heroes (Japan) translated(KR).md",
         "desc": "Chaos has broken out on the planet Gunstar-9!!\n\nThe mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!\n\nUnleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!",
         "image": "./images/Gunstar Heroes (Japan)-image.png",
         "video": "./videos/Gunstar Heroes (Japan)-video.mp4",
@@ -391,9 +391,9 @@
         "lang": "kr",
         "copyright": "(C)SEGA_1992.APR",
         "serial": "GM_00004076-00",
-        "localization": "팀 무풍-v0.9",
+        "localization": "팀 무풍,v0.9",
         "loc_release_date": "2020-08-12",
-        "loc_url": "http://toukyuuji.teammp.kro.kr/"
+        "loc_url": "https://teammp.diskstation.me/001.php"
     },
     "Landstalker - Koutei no Zaihou (Japan)": {
         "path": "./Landstalker - Koutei no Zaihou (Japan).zip",
@@ -521,9 +521,9 @@
         "lang": "kr",
         "copyright": "(C)SEGA 1989.JAN",
         "serial": "GM G-4041  -00",
-        "localization": "팀 무풍-v1.01",
+        "localization": "팀 무풍,v1.0",
         "loc_release_date": "2021-09-12",
-        "loc_url": "http://turbo.teammp.kro.kr/"
+        "loc_url": "https://teammp.diskstation.me/017.php"
     },
     "Magical Taruruuto-kun (Japan)": {
         "path": "./Magical Taruruuto-kun (Japan).zip",
@@ -568,7 +568,7 @@
         "lang": "kr",
         "copyright": "(C)SEGA 1992.FEB",
         "serial": "GM G-4068  -00",
-        "localization": "팀 무풍-v1.0",
+        "localization": "팀 무풍,v1.0",
         "loc_release_date": "2021-09-02",
         "loc_url": "http://tarruto.teammp.kro.kr/"
     },
@@ -613,7 +613,7 @@
         "lang": "kr",
         "copyright": "(C)T-49 1991.DEC",
         "serial": "GM T-49083 -00",
-        "localization": "자일리톨-v1.0c",
+        "localization": "자일리톨,v1.0c",
         "loc_release_date": "2009-04-23",
         "loc_url": "http://nsm53p.tistory.com/220"
     },
@@ -810,7 +810,7 @@
         "lang": "kr",
         "copyright": "(C)T-49 1991.OCT",
         "serial": "GM T-49103 -01",
-        "localization": "자일리톨-v1.0",
+        "localization": "자일리톨,v1.0",
         "loc_release_date": "2009-09-08",
         "loc_url": "http://nsm53p.tistory.com/347"
     },
@@ -1007,9 +1007,9 @@
         "lang": "kr",
         "copyright": "(C)SEGA 1992.MAR",
         "serial": "G  00004073-00",
-        "localization": "지원채운아빠-v1.1",
+        "localization": "팀무풍,지원채운아빠,v1.1",
         "loc_release_date": "2022-10-26",
-        "loc_url": "http://sura.teammp.kro.kr/"
+        "loc_url": "https://teammp.diskstation.me/048.php"
     },
     "Story of Thor, The (Korea)": {
         "path": "./Story of Thor, The (Korea).zip",
@@ -1224,7 +1224,7 @@
         "lang": "kr",
         "copyright": "(C)T-49 1991.MAR",
         "serial": "GM T-49023 -01",
-        "localization": "자일리톨-v0.92c",
+        "localization": "자일리톨,v0.92c",
         "loc_release_date": "2008-11-16",
         "loc_url": "http://nsm53p.tistory.com/27"
     },
@@ -1273,9 +1273,9 @@
         "lang": "kr",
         "copyright": "(C)T-95 1994.MAR",
         "serial": "GM T-95043-00",
-        "localization": "팀 무풍-v1.0",
+        "localization": "팀 무풍,v1.0",
         "loc_release_date": "2021-09-22",
-        "loc_url": "http://vampire.teammp.kro.kr/"
+        "loc_url": "https://teammp.diskstation.me/018.php"
     },
     "Wizard of the Immortal (Japan)": {
         "path": "./Wizard of the Immortal (Japan).zip",
@@ -1363,8 +1363,47 @@
         "lang": "kr",
         "copyright": "(C)T-49 1991.JUL",
         "serial": "GM T-49063 -00",
-        "localization": "자일리톨-v1.0",
+        "localization": "자일리톨,v1.0",
         "loc_release_date": "2013-08-25",
         "loc_url": "http://nsm53p.tistory.com/591"
+    },
+    "Zero Wing (Europe)": {
+        "path": "./Zero Wing (Europe).zip",
+        "name": "Zero Wing",
+        "filename": "Zero Wing (Europe).md",
+        "desc": "Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.\n\nLike most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.\n\nThe game (or the European PAL version) is best known for being the origin of the infamous \"All Your Base\" 2001 Internet meme.",
+        "image": "./images/Zero Wing (Europe)-image.png",
+        "video": "./videos/Zero Wing (Europe)-video.mp4",
+        "marquee": "./images/Zero Wing (Europe)-marquee.png",
+        "thumbnail": "./images/Zero Wing (Europe)-thumb.png",
+        "manual": "./manuals/Zero Wing (Europe)-manual.pdf",
+        "rating": "0.6",
+        "releasedate": "19920701T000000",
+        "developer": "Toaplan",
+        "publisher": "Toaplan",
+        "genre": "Shoot'em Up / Horizontal",
+        "md5": "5f4f2fb8c7b8c50efbc6eed57ce3dae3",
+        "lang": "en"
+    },
+    "Zero Wing (Europe) translated (KR)": {
+        "path": "./Zero Wing (Europe) translated (KR).zip",
+        "name": "제로 윙",
+        "filename": "Zero Wing (Europe) translated (KR).md",
+        "desc": "Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.\n\nLike most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.\n\nThe game (or the European PAL version) is best known for being the origin of the infamous \"All Your Base\" 2001 Internet meme.",
+        "image": "./images/Zero Wing (Europe)-image.png",
+        "video": "./videos/Zero Wing (Europe)-video.mp4",
+        "marquee": "./images/Zero Wing (Europe)-marquee.png",
+        "thumbnail": "./images/Zero Wing (Europe)-thumb.png",
+        "manual": "./manuals/Zero Wing (Europe)-manual.pdf",
+        "rating": "0.6",
+        "releasedate": "19920701T000000",
+        "developer": "Toaplan",
+        "publisher": "Toaplan",
+        "genre": "Shoot'em Up / Horizontal",
+        "md5": "fb79d725e74a5e1356bf75435b6937f6",
+        "lang": "kr",
+        "localization": "팀 무풍,v0.0",
+        "loc_release_date": "2022-10-14",
+        "loc_url": "https://teammp.diskstation.me/053.php"
     }
 }

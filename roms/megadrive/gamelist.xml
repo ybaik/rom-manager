@@ -309,7 +309,7 @@ Unleash some mad blasting action onto the Colonel's army and don't let him bring
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>
 	<game>
-		<path>./Gunstar Heroes translated(KR).zip</path>
+		<path>./Gunstar Heroes (Japan) translated(KR).zip</path>
 		<name>건스타 히어로즈</name>
 		<desc>Chaos has broken out on the planet Gunstar-9!!
 
@@ -1322,6 +1322,50 @@ Ys III breaks away from the "bumping into enemies" battle system of the first tw
 		<genre>Role Playing Game / Action RPG</genre>
 		<family>Ys</family>
 		<md5>3feca9b0026ffa1fcaa0908e768f649f</md5>
+		<lang>kr</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Zero Wing (Europe).zip</path>
+		<name>Zero Wing</name>
+		<desc>Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
+
+Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
+
+The game (or the European PAL version) is best known for being the origin of the infamous "All Your Base" 2001 Internet meme.</desc>
+		<image>./images/Zero Wing (Europe)-image.png</image>
+		<video>./videos/Zero Wing (Europe)-video.mp4</video>
+		<marquee>./images/Zero Wing (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Zero Wing (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Zero Wing (Europe)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19920701T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<md5>5f4f2fb8c7b8c50efbc6eed57ce3dae3</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="300001011T000000" />
+	</game>
+	<game>
+		<path>./Zero Wing (Europe) translated (KR).zip</path>
+		<name>제로 윙</name>
+		<desc>Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
+
+Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
+
+The game (or the European PAL version) is best known for being the origin of the infamous "All Your Base" 2001 Internet meme.</desc>
+		<image>./images/Zero Wing (Europe)-image.png</image>
+		<video>./videos/Zero Wing (Europe)-video.mp4</video>
+		<marquee>./images/Zero Wing (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Zero Wing (Europe)-thumb.png</thumbnail>
+		<manual>./manuals/Zero Wing (Europe)-manual.pdf</manual>
+		<rating>0.6</rating>
+		<releasedate>19920701T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<md5>fb79d725e74a5e1356bf75435b6937f6</md5>
 		<lang>kr</lang>
 		<scrap name="ScreenScraper" date="300001011T000000" />
 	</game>

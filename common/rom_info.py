@@ -49,9 +49,9 @@ def get_nes_info(path):
     return rom_info
 
 
-def get_md_info(path):
-    with open(path, "rb") as f:
-        data = f.read()
+def get_md_info(data):
+    # with open(path, "rb") as f:
+    #     data = f.read()
 
     rom_info = dict()
 
